@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for OnlineJudgeCodeDetection" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" />
+        </processorPath>
+        <module name="check" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="c" target="1.5" />
+      <module name="cpp" target="1.5" />
+      <module name="csharp" target="1.5" />
+      <module name="emf-metamodel" target="1.5" />
+      <module name="emf-metamodel-dynamic" target="1.5" />
+      <module name="emf-model" target="1.5" />
+      <module name="golang" target="1.5" />
+      <module name="java" target="1.5" />
+      <module name="javascript" target="1.5" />
+      <module name="kotlin" target="1.5" />
+      <module name="languages" target="21" />
+      <module name="llvmir" target="1.5" />
+      <module name="python-3" target="1.5" />
+      <module name="rlang" target="1.5" />
+      <module name="rust" target="1.5" />
+      <module name="scala" target="1.5" />
+      <module name="scheme" target="1.5" />
+      <module name="scxml" target="1.5" />
+      <module name="swift" target="1.5" />
+      <module name="text" target="1.5" />
+      <module name="typescript" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="check" options="-parameters" />
+    </option>
+  </component>
+</project>

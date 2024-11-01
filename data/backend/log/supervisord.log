@@ -1,0 +1,382 @@
+2024-09-29 06:23:42,802 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 06:23:42,812 INFO RPC interface 'supervisor' initialized
+2024-09-29 06:23:42,813 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 06:23:42,813 INFO supervisord started with pid 1
+2024-09-29 06:23:43,347 INFO spawned: 'nginx' with pid 47
+2024-09-29 06:23:48,379 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 06:31:26,973 WARN received SIGTERM indicating exit request
+2024-09-29 06:31:26,974 INFO waiting for nginx to die
+2024-09-29 06:31:27,130 INFO stopped: nginx (exit status 0)
+2024-09-29 06:31:34,899 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 06:31:34,912 INFO RPC interface 'supervisor' initialized
+2024-09-29 06:31:34,913 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 06:31:34,913 INFO supervisord started with pid 1
+2024-09-29 06:31:35,918 INFO spawned: 'nginx' with pid 198
+2024-09-29 06:31:41,486 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 06:32:36,060 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 06:32:36,067 INFO RPC interface 'supervisor' initialized
+2024-09-29 06:32:36,068 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 06:32:36,068 INFO supervisord started with pid 1
+2024-09-29 06:32:36,451 INFO spawned: 'nginx' with pid 86
+2024-09-29 06:32:41,473 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 06:35:57,059 INFO reaped unknown pid 2602 (exit status 0)
+2024-09-29 06:36:33,519 WARN received SIGTERM indicating exit request
+2024-09-29 06:36:33,520 INFO waiting for nginx to die
+2024-09-29 06:36:33,660 INFO stopped: nginx (exit status 0)
+2024-09-29 06:37:14,514 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 06:37:14,519 INFO RPC interface 'supervisor' initialized
+2024-09-29 06:37:14,520 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 06:37:14,520 INFO supervisord started with pid 1
+2024-09-29 06:37:14,829 INFO spawned: 'nginx' with pid 763
+2024-09-29 06:37:19,848 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 06:38:27,782 INFO reaped unknown pid 349 (terminated by SIGHUP)
+2024-09-29 06:58:25,351 WARN received SIGTERM indicating exit request
+2024-09-29 06:58:25,351 INFO waiting for nginx to die
+2024-09-29 06:58:25,461 INFO stopped: nginx (exit status 0)
+2024-09-29 06:58:35,875 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 06:58:35,892 INFO RPC interface 'supervisor' initialized
+2024-09-29 06:58:35,893 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 06:58:35,893 INFO supervisord started with pid 1
+2024-09-29 06:58:36,493 INFO spawned: 'nginx' with pid 496
+2024-09-29 06:58:41,531 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 07:07:10,964 WARN received SIGTERM indicating exit request
+2024-09-29 07:07:10,964 INFO waiting for nginx to die
+2024-09-29 07:07:11,071 INFO stopped: nginx (exit status 0)
+2024-09-29 07:07:20,631 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 07:07:20,637 INFO RPC interface 'supervisor' initialized
+2024-09-29 07:07:20,638 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 07:07:20,638 INFO supervisord started with pid 1
+2024-09-29 07:07:21,643 INFO spawned: 'nginx' with pid 555
+2024-09-29 07:07:27,054 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 07:24:12,326 WARN received SIGTERM indicating exit request
+2024-09-29 07:24:12,327 INFO waiting for nginx to die
+2024-09-29 07:24:12,456 INFO stopped: nginx (exit status 0)
+2024-09-29 07:24:21,486 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 07:24:21,497 INFO RPC interface 'supervisor' initialized
+2024-09-29 07:24:21,497 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 07:24:21,498 INFO supervisord started with pid 1
+2024-09-29 07:24:22,501 INFO spawned: 'nginx' with pid 528
+2024-09-29 07:24:28,426 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 07:31:57,814 WARN received SIGTERM indicating exit request
+2024-09-29 07:31:57,815 INFO waiting for nginx to die
+2024-09-29 07:31:57,929 INFO stopped: nginx (exit status 0)
+2024-09-29 07:32:13,721 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 07:32:13,727 INFO RPC interface 'supervisor' initialized
+2024-09-29 07:32:13,727 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 07:32:13,727 INFO supervisord started with pid 1
+2024-09-29 07:32:14,012 INFO spawned: 'nginx' with pid 1442
+2024-09-29 07:32:19,051 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 07:37:53,644 WARN received SIGTERM indicating exit request
+2024-09-29 07:37:53,644 INFO waiting for nginx to die
+2024-09-29 07:37:53,749 INFO stopped: nginx (exit status 0)
+2024-09-29 07:38:10,752 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 07:38:10,765 INFO RPC interface 'supervisor' initialized
+2024-09-29 07:38:10,766 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 07:38:10,767 INFO supervisord started with pid 1
+2024-09-29 07:38:11,776 INFO spawned: 'nginx' with pid 1495
+2024-09-29 07:38:17,051 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 08:45:10,008 INFO reaped unknown pid 512 (exit status 0)
+2024-09-29 14:38:10,515 WARN received SIGTERM indicating exit request
+2024-09-29 14:38:10,519 INFO waiting for nginx to die
+2024-09-29 14:38:10,695 INFO stopped: nginx (exit status 0)
+2024-09-29 14:38:40,298 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-29 14:38:40,309 INFO RPC interface 'supervisor' initialized
+2024-09-29 14:38:40,316 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-29 14:38:40,317 INFO supervisord started with pid 1
+2024-09-29 14:38:41,324 INFO spawned: 'nginx' with pid 932
+2024-09-29 14:38:46,658 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-09-29 14:38:51,838 WARN received SIGTERM indicating exit request
+2024-09-29 14:38:51,840 INFO waiting for nginx to die
+2024-09-29 14:38:51,980 INFO stopped: nginx (exit status 0)
+2024-09-30 22:45:40,299 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-09-30 22:45:40,308 INFO RPC interface 'supervisor' initialized
+2024-09-30 22:45:40,309 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-09-30 22:45:40,309 INFO supervisord started with pid 1
+2024-09-30 22:45:41,313 INFO spawned: 'nginx' with pid 937
+2024-09-30 22:45:42,344 WARN received SIGTERM indicating exit request
+2024-09-30 22:45:42,345 INFO waiting for nginx to die
+2024-09-30 22:45:42,471 INFO stopped: nginx (exit status 0)
+2024-10-10 23:54:24,855 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-10 23:54:24,864 INFO RPC interface 'supervisor' initialized
+2024-10-10 23:54:24,865 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-10 23:54:24,865 INFO supervisord started with pid 1
+2024-10-10 23:54:25,870 INFO spawned: 'nginx' with pid 938
+2024-10-10 23:54:31,101 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-10 23:54:40,765 WARN received SIGTERM indicating exit request
+2024-10-10 23:54:40,766 INFO waiting for nginx to die
+2024-10-10 23:54:41,019 INFO stopped: nginx (exit status 0)
+2024-10-11 10:29:43,843 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-11 10:29:43,854 INFO RPC interface 'supervisor' initialized
+2024-10-11 10:29:43,855 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-11 10:29:43,855 INFO supervisord started with pid 1
+2024-10-11 10:29:44,860 INFO spawned: 'nginx' with pid 944
+2024-10-11 10:29:50,420 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-11 23:28:18,221 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-11 23:28:18,238 INFO RPC interface 'supervisor' initialized
+2024-10-11 23:28:18,239 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-11 23:28:18,240 INFO supervisord started with pid 1
+2024-10-11 23:28:19,246 INFO spawned: 'nginx' with pid 964
+2024-10-11 23:28:24,738 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-12 04:14:40,231 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-12 04:14:40,244 INFO RPC interface 'supervisor' initialized
+2024-10-12 04:14:40,245 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-12 04:14:40,246 INFO supervisord started with pid 1
+2024-10-12 04:14:41,251 INFO spawned: 'nginx' with pid 959
+2024-10-12 04:14:46,889 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-12 05:54:23,960 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-12 05:54:23,970 INFO RPC interface 'supervisor' initialized
+2024-10-12 05:54:23,971 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-12 05:54:23,971 INFO supervisord started with pid 1
+2024-10-12 05:54:24,976 INFO spawned: 'nginx' with pid 976
+2024-10-12 05:54:30,181 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-12 05:55:28,884 WARN received SIGTERM indicating exit request
+2024-10-12 05:55:28,885 INFO waiting for nginx to die
+2024-10-12 05:55:29,047 INFO stopped: nginx (exit status 0)
+2024-10-13 03:27:54,573 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-13 03:27:54,589 INFO RPC interface 'supervisor' initialized
+2024-10-13 03:27:54,590 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-13 03:27:54,590 INFO supervisord started with pid 1
+2024-10-13 03:27:55,601 INFO spawned: 'nginx' with pid 963
+2024-10-13 03:28:01,145 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-14 07:09:01,972 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-14 07:09:01,988 INFO RPC interface 'supervisor' initialized
+2024-10-14 07:09:01,989 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-14 07:09:01,989 INFO supervisord started with pid 1
+2024-10-14 07:09:03,004 INFO spawned: 'nginx' with pid 977
+2024-10-14 07:09:08,298 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-14 10:45:58,174 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-14 10:45:58,193 INFO RPC interface 'supervisor' initialized
+2024-10-14 10:45:58,194 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-14 10:45:58,195 INFO supervisord started with pid 1
+2024-10-14 10:45:59,208 INFO spawned: 'nginx' with pid 990
+2024-10-14 10:46:04,224 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-15 10:47:47,490 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-15 10:47:47,506 INFO RPC interface 'supervisor' initialized
+2024-10-15 10:47:47,506 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-15 10:47:47,507 INFO supervisord started with pid 1
+2024-10-15 10:47:48,512 INFO spawned: 'nginx' with pid 971
+2024-10-15 10:47:54,234 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-16 00:41:10,160 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-16 00:41:10,192 INFO RPC interface 'supervisor' initialized
+2024-10-16 00:41:10,192 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-16 00:41:10,194 INFO supervisord started with pid 1
+2024-10-16 00:41:10,371 INFO spawned: 'nginx' with pid 972
+2024-10-16 00:41:15,481 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-16 10:35:03,981 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-16 10:35:03,994 INFO RPC interface 'supervisor' initialized
+2024-10-16 10:35:03,994 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-16 10:35:03,994 INFO supervisord started with pid 1
+2024-10-16 10:35:05,000 INFO spawned: 'nginx' with pid 954
+2024-10-16 10:35:10,925 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 14:38:50,601 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 14:38:50,616 INFO RPC interface 'supervisor' initialized
+2024-10-17 14:38:50,616 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 14:38:50,617 INFO supervisord started with pid 1
+2024-10-17 14:38:51,623 INFO spawned: 'nginx' with pid 948
+2024-10-17 14:38:57,276 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 14:39:47,372 WARN received SIGTERM indicating exit request
+2024-10-17 14:39:47,373 INFO waiting for nginx to die
+2024-10-17 14:39:47,515 INFO stopped: nginx (exit status 0)
+2024-10-17 14:47:09,021 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 14:47:09,027 INFO RPC interface 'supervisor' initialized
+2024-10-17 14:47:09,028 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 14:47:09,028 INFO supervisord started with pid 1
+2024-10-17 14:47:10,034 INFO spawned: 'nginx' with pid 849
+2024-10-17 14:47:15,769 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 14:55:53,933 WARN received SIGTERM indicating exit request
+2024-10-17 14:55:53,933 INFO waiting for nginx to die
+2024-10-17 14:55:54,099 INFO stopped: nginx (exit status 0)
+2024-10-17 14:56:07,848 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 14:56:07,855 INFO RPC interface 'supervisor' initialized
+2024-10-17 14:56:07,856 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 14:56:07,856 INFO supervisord started with pid 1
+2024-10-17 14:56:08,860 INFO spawned: 'nginx' with pid 1379
+2024-10-17 14:56:14,240 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 15:26:57,752 WARN received SIGTERM indicating exit request
+2024-10-17 15:26:57,792 INFO waiting for nginx to die
+2024-10-17 15:26:57,916 INFO stopped: nginx (exit status 0)
+2024-10-17 15:27:12,044 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 15:27:12,053 INFO RPC interface 'supervisor' initialized
+2024-10-17 15:27:12,054 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 15:27:12,054 INFO supervisord started with pid 1
+2024-10-17 15:27:13,059 INFO spawned: 'nginx' with pid 1368
+2024-10-17 15:27:18,106 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 15:31:02,008 WARN received SIGTERM indicating exit request
+2024-10-17 15:31:02,009 INFO waiting for nginx to die
+2024-10-17 15:31:02,187 INFO stopped: nginx (exit status 0)
+2024-10-17 15:31:16,057 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 15:31:16,062 INFO RPC interface 'supervisor' initialized
+2024-10-17 15:31:16,062 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 15:31:16,062 INFO supervisord started with pid 1
+2024-10-17 15:31:17,066 INFO spawned: 'nginx' with pid 1395
+2024-10-17 15:31:22,333 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 15:37:58,007 WARN received SIGTERM indicating exit request
+2024-10-17 15:37:58,009 INFO waiting for nginx to die
+2024-10-17 15:37:58,131 INFO stopped: nginx (exit status 0)
+2024-10-17 15:38:12,354 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 15:38:12,360 INFO RPC interface 'supervisor' initialized
+2024-10-17 15:38:12,360 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 15:38:12,360 INFO supervisord started with pid 1
+2024-10-17 15:38:13,364 INFO spawned: 'nginx' with pid 1360
+2024-10-17 15:38:18,365 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 15:51:31,899 WARN received SIGTERM indicating exit request
+2024-10-17 15:51:31,900 INFO waiting for nginx to die
+2024-10-17 15:51:32,022 INFO stopped: nginx (exit status 0)
+2024-10-17 15:51:46,569 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 15:51:46,575 INFO RPC interface 'supervisor' initialized
+2024-10-17 15:51:46,576 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 15:51:46,576 INFO supervisord started with pid 1
+2024-10-17 15:51:47,580 INFO spawned: 'nginx' with pid 1406
+2024-10-17 15:51:53,184 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 15:56:10,756 WARN received SIGTERM indicating exit request
+2024-10-17 15:56:10,757 INFO waiting for nginx to die
+2024-10-17 15:56:10,931 INFO stopped: nginx (exit status 0)
+2024-10-17 15:56:23,822 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 15:56:23,828 INFO RPC interface 'supervisor' initialized
+2024-10-17 15:56:23,828 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 15:56:23,828 INFO supervisord started with pid 1
+2024-10-17 15:56:24,833 INFO spawned: 'nginx' with pid 1390
+2024-10-17 15:56:30,022 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-17 23:36:32,457 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-17 23:36:32,468 INFO RPC interface 'supervisor' initialized
+2024-10-17 23:36:32,468 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-17 23:36:32,468 INFO supervisord started with pid 1
+2024-10-17 23:36:33,473 INFO spawned: 'nginx' with pid 953
+2024-10-17 23:36:38,939 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-18 02:48:08,523 INFO reaped unknown pid 12951 (terminated by SIGTERM)
+2024-10-18 03:02:31,003 INFO reaped unknown pid 33577 (terminated by SIGTERM)
+2024-10-18 03:05:31,553 WARN received SIGTERM indicating exit request
+2024-10-18 03:05:31,566 INFO waiting for nginx to die
+2024-10-18 03:05:31,918 INFO stopped: nginx (exit status 0)
+2024-10-19 07:57:33,455 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-19 07:57:33,465 INFO RPC interface 'supervisor' initialized
+2024-10-19 07:57:33,465 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-19 07:57:33,466 INFO supervisord started with pid 1
+2024-10-19 07:57:34,472 INFO spawned: 'nginx' with pid 962
+2024-10-19 07:57:40,179 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-19 09:57:04,258 INFO reaped unknown pid 50124 (exit status 0)
+2024-10-19 10:37:00,467 INFO reaped unknown pid 5132 (terminated by SIGTERM)
+2024-10-19 11:30:11,255 INFO reaped unknown pid 82941 (terminated by SIGTERM)
+2024-10-19 11:30:33,699 INFO reaped unknown pid 83663 (terminated by SIGTERM)
+2024-10-19 12:51:46,769 INFO reaped unknown pid 90824 (terminated by SIGTERM)
+2024-10-21 13:09:39,044 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-21 13:09:39,055 INFO RPC interface 'supervisor' initialized
+2024-10-21 13:09:39,055 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-21 13:09:39,056 INFO supervisord started with pid 1
+2024-10-21 13:09:40,060 INFO spawned: 'nginx' with pid 953
+2024-10-21 13:09:45,138 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-21 13:12:54,583 WARN received SIGTERM indicating exit request
+2024-10-21 13:12:54,587 INFO waiting for nginx to die
+2024-10-21 13:12:54,727 INFO stopped: nginx (exit status 0)
+2024-10-22 10:12:01,872 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-22 10:12:01,888 INFO RPC interface 'supervisor' initialized
+2024-10-22 10:12:01,889 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-22 10:12:01,889 INFO supervisord started with pid 1
+2024-10-22 10:12:02,896 INFO spawned: 'nginx' with pid 1042
+2024-10-22 10:12:07,937 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-22 10:54:39,350 WARN received SIGTERM indicating exit request
+2024-10-22 10:54:39,351 INFO waiting for nginx to die
+2024-10-22 10:54:39,498 INFO stopped: nginx (exit status 0)
+2024-10-22 10:56:45,348 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-22 10:56:45,363 INFO RPC interface 'supervisor' initialized
+2024-10-22 10:56:45,363 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-22 10:56:45,364 INFO supervisord started with pid 1
+2024-10-22 10:56:46,371 INFO spawned: 'nginx' with pid 1055
+2024-10-22 10:56:51,603 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-23 05:30:05,284 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-23 05:30:05,311 INFO RPC interface 'supervisor' initialized
+2024-10-23 05:30:05,312 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-23 05:30:05,313 INFO supervisord started with pid 1
+2024-10-23 05:30:05,867 INFO spawned: 'nginx' with pid 1060
+2024-10-23 05:30:10,924 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-23 08:54:34,396 WARN received SIGTERM indicating exit request
+2024-10-23 08:54:34,407 INFO waiting for nginx to die
+2024-10-23 08:54:34,641 INFO stopped: nginx (exit status 0)
+2024-10-23 22:21:55,054 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-23 22:21:55,065 INFO RPC interface 'supervisor' initialized
+2024-10-23 22:21:55,065 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-23 22:21:55,065 INFO supervisord started with pid 1
+2024-10-23 22:21:55,595 INFO spawned: 'nginx' with pid 1047
+2024-10-23 22:22:00,636 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 03:54:33,157 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 03:54:33,165 INFO RPC interface 'supervisor' initialized
+2024-10-24 03:54:33,166 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 03:54:33,166 INFO supervisord started with pid 1
+2024-10-24 03:54:34,171 INFO spawned: 'nginx' with pid 944
+2024-10-24 03:54:39,690 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 08:18:00,642 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 08:18:00,655 INFO RPC interface 'supervisor' initialized
+2024-10-24 08:18:00,656 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 08:18:00,657 INFO supervisord started with pid 1
+2024-10-24 08:18:01,662 INFO spawned: 'nginx' with pid 953
+2024-10-24 08:18:07,580 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 13:50:49,638 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 13:50:49,650 INFO RPC interface 'supervisor' initialized
+2024-10-24 13:50:49,652 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 13:50:49,652 INFO supervisord started with pid 1
+2024-10-24 13:50:50,662 INFO spawned: 'nginx' with pid 959
+2024-10-24 13:50:56,199 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 14:11:12,033 INFO reaped unknown pid 4087 (exit status 0)
+2024-10-24 14:13:23,731 WARN received SIGTERM indicating exit request
+2024-10-24 14:13:23,732 INFO waiting for nginx to die
+2024-10-24 14:13:23,870 INFO stopped: nginx (exit status 0)
+2024-10-24 14:13:52,275 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 14:13:52,287 INFO RPC interface 'supervisor' initialized
+2024-10-24 14:13:52,288 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 14:13:52,288 INFO supervisord started with pid 1
+2024-10-24 14:13:53,294 INFO spawned: 'nginx' with pid 1405
+2024-10-24 14:13:58,668 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 14:16:03,454 WARN received SIGTERM indicating exit request
+2024-10-24 14:16:03,455 INFO waiting for nginx to die
+2024-10-24 14:16:03,551 INFO stopped: nginx (exit status 0)
+2024-10-24 14:16:13,505 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 14:16:13,511 INFO RPC interface 'supervisor' initialized
+2024-10-24 14:16:13,512 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 14:16:13,512 INFO supervisord started with pid 1
+2024-10-24 14:16:14,466 INFO spawned: 'nginx' with pid 932
+2024-10-24 14:16:19,491 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 14:22:43,931 WARN received SIGTERM indicating exit request
+2024-10-24 14:22:43,932 INFO waiting for nginx to die
+2024-10-24 14:22:44,067 INFO stopped: nginx (exit status 0)
+2024-10-24 14:22:58,758 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 14:22:58,764 INFO RPC interface 'supervisor' initialized
+2024-10-24 14:22:58,765 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 14:22:58,765 INFO supervisord started with pid 1
+2024-10-24 14:22:59,771 INFO spawned: 'nginx' with pid 1289
+2024-10-24 14:23:05,715 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-24 14:34:27,983 WARN received SIGTERM indicating exit request
+2024-10-24 14:34:27,984 INFO waiting for nginx to die
+2024-10-24 14:34:28,136 INFO stopped: nginx (exit status 0)
+2024-10-24 14:34:44,668 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-24 14:34:44,675 INFO RPC interface 'supervisor' initialized
+2024-10-24 14:34:44,675 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-24 14:34:44,675 INFO supervisord started with pid 1
+2024-10-24 14:34:44,836 INFO spawned: 'nginx' with pid 1355
+2024-10-24 14:34:49,871 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-25 00:12:40,659 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-25 00:12:40,672 INFO RPC interface 'supervisor' initialized
+2024-10-25 00:12:40,673 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-25 00:12:40,674 INFO supervisord started with pid 1
+2024-10-25 00:12:41,672 INFO spawned: 'nginx' with pid 953
+2024-10-25 00:12:47,096 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-25 00:12:51,194 WARN received SIGTERM indicating exit request
+2024-10-25 00:12:51,195 INFO waiting for nginx to die
+2024-10-25 00:12:51,336 INFO stopped: nginx (exit status 0)
+2024-10-25 14:14:52,917 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-25 14:14:52,925 INFO RPC interface 'supervisor' initialized
+2024-10-25 14:14:52,926 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-25 14:14:52,926 INFO supervisord started with pid 1
+2024-10-25 14:14:53,930 INFO spawned: 'nginx' with pid 939
+2024-10-25 14:14:59,589 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-26 09:59:48,743 WARN received SIGTERM indicating exit request
+2024-10-26 09:59:48,748 INFO waiting for nginx to die
+2024-10-26 09:59:48,896 INFO stopped: nginx (exit status 0)
+2024-10-28 23:36:04,524 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-10-28 23:36:04,535 INFO RPC interface 'supervisor' initialized
+2024-10-28 23:36:04,535 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2024-10-28 23:36:04,535 INFO supervisord started with pid 1
+2024-10-28 23:36:05,418 INFO spawned: 'nginx' with pid 944
+2024-10-28 23:36:10,447 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2024-10-28 23:36:47,170 WARN received SIGTERM indicating exit request
+2024-10-28 23:36:47,170 INFO waiting for nginx to die
+2024-10-28 23:36:47,317 INFO stopped: nginx (exit status 0)

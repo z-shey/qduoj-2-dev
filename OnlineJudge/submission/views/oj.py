@@ -48,6 +48,7 @@ class SubmissionAPI(APIView):
     @validate_serializer(CreateSubmissionSerializer)
     @login_required
     def post(self, request):
+        print("发送判题数据")
         data = request.data
         hide_id = False
         if data.get("contest_id"):
@@ -80,6 +81,7 @@ class SubmissionAPI(APIView):
                                                contest_id=data.get("contest_id"))
         # use this for debug
         # JudgeDispatcher(submission.id, problem.id).judge()
+        # 设置任务
         judge_task.send(submission.id, problem.id)
         if hide_id:
             return self.success()
@@ -88,6 +90,7 @@ class SubmissionAPI(APIView):
 
     @login_required
     def get(self, request):
+        print("获取判题数据")
         submission_id = request.GET.get("id")
         if not submission_id:
             return self.error("Parameter id doesn't exist")

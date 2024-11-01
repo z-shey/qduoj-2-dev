@@ -1,0 +1,12 @@
+{
+    "spj": false,
+    "test_cases": {
+        "1": {
+            "stripped_output_md5": "32b813b5896fc5070f52256db850fb3b",
+            "input_size": 8,
+            "output_size": 167,
+            "input_name": "1.in",
+            "output_name": "1.out"
+        }
+    }
+}

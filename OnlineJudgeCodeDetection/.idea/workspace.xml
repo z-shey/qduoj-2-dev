@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6705c9a1-1325-4d9a-8996-2b95b87026e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2naOAWmLSLbifgRVLThfFOuoxW6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.OnlineJudgeCodeDetection [clean].executor": "Run",
+    "Maven.OnlineJudgeCodeDetection [compile].executor": "Run",
+    "Maven.OnlineJudgeCodeDetection [deploy].executor": "Run",
+    "Maven.OnlineJudgeCodeDetection [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CheckApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WorkSpace/Project/OpenProject/qduoj-2-dev/OnlineJudgeCodeDetection/root-new",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\root-new" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\test\template" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\test" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\test\sub" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\root-new" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\test\BaseCode" />
+      <recent name="D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeCodeDetection\test1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CheckApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="check" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zshey.check.CheckApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6705c9a1-1325-4d9a-8996-2b95b87026e0" name="Changes" comment="" />
+      <created>1729207577872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729207577872</updated>
+      <workItem from="1729207578793" duration="3762000" />
+      <workItem from="1729211389751" duration="8229000" />
+      <workItem from="1729327694566" duration="5731000" />
+      <workItem from="1729516154124" duration="2012000" />
+      <workItem from="1729519120486" duration="632000" />
+      <workItem from="1729777401704" duration="4456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

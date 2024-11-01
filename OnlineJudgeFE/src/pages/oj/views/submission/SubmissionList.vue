@@ -149,6 +149,40 @@
             key: 'language'
           },
           {
+            title: '查重率',
+            align: 'center',
+            // key: 'similarity'
+            render: (h, params) => {
+              return h('Tag', {
+                props: {
+                  color: JUDGE_STATUS[params.row.result].color
+                }
+              }, params.row.similarity.result)
+            }
+          },
+          {
+            title: '查重ID',
+            align: 'center',
+            // key: 'similarity'
+            render: (h, params) => {
+              if (params.row.show_link) {
+                return h('span', {
+                  style: {
+                    color: '#57a3f3',
+                    cursor: 'pointer'
+                  },
+                  on: {
+                    click: () => {
+                      this.$router.push('/similarity/' + params.row.similarity.identify)
+                    }
+                  }
+                }, params.row.similarity.identify.slice(0, 12))
+              } else {
+                return h('span', params.row.similarity.identify.slice(0, 12))
+              }
+            }
+          },
+          {
             title: this.$i18n.t('m.Author'),
             align: 'center',
             render: (h, params) => {

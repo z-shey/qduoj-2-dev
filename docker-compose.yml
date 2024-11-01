@@ -1,0 +1,98 @@
+version: "3"
+services:
+
+  oj-redis:
+    image: redis:latest
+    restart: always
+    volumes:
+      - ./data/redis:/data
+
+  oj-postgres:
+    image: postgres:12.17
+    restart: always
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=onlinejudge
+      - POSTGRES_USER=onlinejudge
+      - POSTGRES_PASSWORD=onlinejudge
+    ports:
+      - "0.0.0.0:5432:5432"
+
+  oj-judge-code-library:
+    image: openjdk:21
+    volumes:
+      - ./data/backend:/data
+    command: ["java", "-jar", "/data/jar/check-1.0.0.jar"]
+    ports:
+    - "0.0.0.0:8063:8063" # 测试用
+    
+
+  oj-judge:
+    image: judge:latest
+    restart: always
+    read_only: true
+    cap_drop:
+      - SETPCAP
+      - MKNOD
+      - NET_BIND_SERVICE
+      - SYS_CHROOT
+      - SETFCAP
+      - FSETID
+    tmpfs:
+      - /tmp
+    volumes:
+      - ./data/backend/test_case:/test_case:ro
+      - ./data/judge_server/log:/log
+      - ./data/judge_server/run:/judger
+    environment:
+      - SERVICE_URL=http://oj-judge:8080
+      - BACKEND_URL=http://oj-backend-dev:8000/api/judge_server_heartbeat/
+      - TOKEN=ONLINE_JUDGE
+      # - judger_debug=1
+
+  oj-backend-dev:
+    image: oj-backend-dev:latest
+    command: tail -f /dev/null
+    restart: always
+    depends_on:
+      - oj-judge-code-library
+      - oj-redis
+      - oj-postgres
+      - oj-judge
+    volumes:
+      - ./data/backend:/data
+      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeFE\dist:/app/dist
+      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudge:/app
+    environment:
+      - POSTGRES_DB=onlinejudge
+      - POSTGRES_USER=onlinejudge
+      - POSTGRES_PASSWORD=onlinejudge
+      - JUDGE_SERVER_TOKEN=ONLINE_JUDGE
+      - CHECK_URL=http://oj-judge-code-library:8063/api/v1/check
+      # - FORCE_HTTPS=1
+      # - STATIC_CDN_HOST=cdn.oj.com
+    ports:
+      - "0.0.0.0:8085:8000"
+      - "0.0.0.0:443:1443"
+      
+  oj-backend-frontend-dev:
+    image: ubuntu:latest
+    command: tail -f /dev/null
+    # restart: always
+    depends_on:
+      - oj-redis
+      - oj-postgres
+      - oj-judge
+    volumes:
+      - ./data/backend:/data
+      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeFE:/app/frontend
+    environment:
+      - POSTGRES_DB=onlinejudge
+      - POSTGRES_USER=onlinejudge
+      - POSTGRES_PASSWORD=onlinejudge
+      - JUDGE_SERVER_TOKEN=ONLINE_JUDGE
+      # - FORCE_HTTPS=1
+      # - STATIC_CDN_HOST=cdn.oj.com
+    ports:
+      - "0.0.0.0:8080:8080"

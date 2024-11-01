@@ -11,6 +11,8 @@ import Announcements from './general/Announcements.vue'
 const SubmissionList = () => import(/* webpackChunkName: "submission" */ '@oj/views/submission/SubmissionList.vue')
 const SubmissionDetails = () => import(/* webpackChunkName: "submission" */ '@oj/views/submission/SubmissionDetails.vue')
 
+const SimilarityDetail = () => import(/* webpackChunkName: "submission" */ '@oj/views/similarity/SimilarityDetail.vue')
+
 const ACMRank = () => import(/* webpackChunkName: "userRank" */ '@oj/views/rank/ACMRank.vue')
 const OIRank = () => import(/* webpackChunkName: "userRank" */ '@oj/views/rank/OIRank.vue')
 
@@ -25,7 +27,7 @@ export {
   ProblemList, Problem,
   ACMRank, OIRank,
   SubmissionList, SubmissionDetails,
-  ApplyResetPassword, ResetPassword
+  ApplyResetPassword, ResetPassword, SimilarityDetail
 }
 /* 组件导出分为两类, 一类常用的直接导出，另一类诸如Login, Logout等用懒加载,懒加载不在此处导出
  *   在对应的route内加载

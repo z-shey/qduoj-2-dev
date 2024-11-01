@@ -1,0 +1,15 @@
+server:
+  port: 8063
+
+spring:
+  application:
+    name: check
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/onlinejudge
+    username: onlinejudge
+    password: onlinejudge
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true

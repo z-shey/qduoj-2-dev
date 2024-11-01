@@ -14,7 +14,8 @@ import {
   ResetPassword,
   SubmissionDetails,
   SubmissionList,
-  UserHome
+  UserHome,
+  SimilarityDetail
 } from '../views'
 
 import * as Contest from '@oj/views/contest'
@@ -68,6 +69,12 @@ export default [
     path: '/status/:id/',
     meta: {title: 'Submission Details'},
     component: SubmissionDetails
+  },
+  {
+    name: 'similarity-details',
+    path: '/similarity/:id/',
+    meta: {title: 'Similarity Details'},
+    component: SimilarityDetail
   },
   {
     name: 'contest-list',

@@ -2,6 +2,8 @@ import hashlib
 import json
 import logging
 from urllib.parse import urljoin
+import shutil
+import os
 
 import requests
 from django.db import transaction, IntegrityError
@@ -31,6 +33,12 @@ def process_pending_task():
             judge_task.send(**data)
 
 
+def calculate_similarity(code1, code2):
+    # TODO 使用简单的文本比较，实际应用中可以使用更复杂的算法
+    return abs(len(code1) - len(code2)) / max(len(code1), len(code2))
+
+
+
 class ChooseJudgeServer:
     def __init__(self):
         self.server = None
@@ -52,6 +60,12 @@ class ChooseJudgeServer:
             JudgeServer.objects.filter(id=self.server.id).update(task_number=F("task_number") - 1)
 
 
+
+
+
+
+
+
 class DispatcherBase(object):
     def __init__(self):
         self.token = hashlib.sha256(SysOptions.judge_server_token.encode("utf-8")).hexdigest()
@@ -64,6 +78,15 @@ class DispatcherBase(object):
             return requests.post(url, **kwargs).json()
         except Exception as e:
             logger.exception(e)
+
+
+
+
+
+
+
+
+
 
 
 class SPJCompiler(DispatcherBase):
@@ -86,6 +109,65 @@ class SPJCompiler(DispatcherBase):
                 return "Failed to call judge server"
             if result["err"]:
                 return result["data"]
+
+
+
+
+
+
+
+
+def ensure_directory_exists(file_path):
+    """确保文件路径中的目录存在，如果不存在则创建"""
+    directory = os.path.dirname(file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+        print(f"目录已创建：{directory}")
+
+def generate_file_path(user_id, problem_id, language):
+    """根据用户ID、题目ID和语言生成文件路径"""
+    base_path = f"/data/code/{user_id}/{problem_id}/{language}/"
+    file_name = f"{user_id}-{problem_id}-{language}.{language}"
+    return os.path.join(base_path, file_name)
+
+def save_code_to_file(user_id, problem_id, language, code):
+    """将代码保存到文件，如果文件所在的目录不存在则创建目录"""
+    file_path = generate_file_path(user_id, problem_id, language)
+    ensure_directory_exists(file_path)
+    try:
+        with open(file_path, 'w') as file:
+            file.write(code)
+        print(f"代码已保存到文件：{file_path}")
+        print(f"上一级目录是：{os.path.dirname(file_path)}")
+        return file_path, os.path.dirname(file_path)
+    except IOError as e:
+        print(f"保存文件时出错：{e}")
+        return None
+
+similarity_library_path = "/data/code/similarity_library"
+
+def copy_file_to_similarity_library(src_file_path):
+    """将文件复制到查重库路径"""
+    dest_file_path = os.path.join(similarity_library_path, os.path.basename(src_file_path))
+    ensure_directory_exists(dest_file_path)
+    try:
+        shutil.copy(src_file_path, dest_file_path)
+        print(f"文件已复制到查重库：{dest_file_path}")
+        return dest_file_path
+    except IOError as e:
+        print(f"复制文件时出错：{e}")
+        return None
+
+def _request(data):
+    try:
+        check_url = os.environ["CHECK_URL"]
+        print(check_url)
+        response = requests.post(check_url, json=data, headers={"Content-Type": "application/json"}, timeout=10).text
+        return json.loads(response)
+    except requests.RequestException as e:
+        print(f"请求失败: {e}")
+        return None
+
 
 
 class JudgeDispatcher(DispatcherBase):
@@ -177,10 +259,36 @@ class JudgeDispatcher(DispatcherBase):
             # OI模式下, 若多个测试点全部正确则AC， 若全部错误则取第一个错误测试点状态，否则为部分正确
             if not error_test_case:
                 self.submission.result = JudgeStatus.ACCEPTED
+                print("通过")
+                # 通过则保存代码文件
+                file_path, parent_directory = save_code_to_file(self.submission.user_id, self.submission.problem_id, self.submission.language, self.submission.code)
+                
+                # TODO 代码查重，发送http请求
+                print(parent_directory)
+                similarity_data = {"code_path": parent_directory,"language": self.submission.language, "library_path": similarity_library_path}
+                similarity_resp = _request(similarity_data)
+                print(similarity_resp)
+                if similarity_resp:
+                    self.submission.similarity = similarity_resp
+                    similarity_result = similarity_resp["result"]
+                    print(similarity_result)
+                    # 如果查重较小，则加入查重库
+                    if similarity_result:
+                        if similarity_result < 0.8:  # 假设阈值是0.8
+                            print("<0.8")
+                            copy_file_to_similarity_library(file_path)
+                    else: # 为空的情况
+                        copy_file_to_similarity_library(file_path)
+                else:
+                    self.submission.similarity = {"status": "failed", "identify": "0", "result": "0.1", "message": "查重服务请求失败"}                    
+               
+                
             elif self.problem.rule_type == ProblemRuleType.ACM or len(error_test_case) == len(resp["data"]):
                 self.submission.result = error_test_case[0]["result"]
             else:
                 self.submission.result = JudgeStatus.PARTIALLY_ACCEPTED
+            
+        print("保存判题结果")
         self.submission.save()
 
         if self.contest_id:
@@ -198,6 +306,7 @@ class JudgeDispatcher(DispatcherBase):
             else:
                 self.update_problem_status()
 
+        print("至此判题结束，尝试处理任务队列中剩余的任务")
         # 至此判题结束，尝试处理任务队列中剩余的任务
         process_pending_task()
 

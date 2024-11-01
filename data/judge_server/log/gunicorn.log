@@ -1,0 +1,1812 @@
+[2024-09-29 06:14:00 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-29 06:14:00 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-29 06:14:00 +0000] [1] [INFO] Using worker: gthread
+[2024-09-29 06:14:00 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-29 06:14:00 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-29 06:14:00 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-29 06:14:00 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-29 06:14:00 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-29 06:14:00 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-29 06:14:00 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-29 06:14:00 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-29 06:14:00 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-29 06:14:00 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-29 06:14:00 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-29 06:14:00 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-29 06:14:00 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-29 06:14:00 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-29 06:14:00 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-29 06:14:00 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-29 14:38:10 +0000] [1] [INFO] Handling signal: term
+[2024-09-29 14:38:10 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-29 14:38:10 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-29 14:38:10 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-29 14:38:10 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-29 14:38:10 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-29 14:38:10 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-29 14:38:10 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-29 14:38:10 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-29 14:38:10 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-29 14:38:10 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-29 14:38:10 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-29 14:38:11 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-29 14:38:11 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-29 14:38:11 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-29 14:38:11 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-29 14:38:11 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-29 14:38:11 +0000] [1] [INFO] Shutting down: Master
+[2024-09-29 14:38:27 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-29 14:38:27 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-29 14:38:27 +0000] [1] [INFO] Using worker: gthread
+[2024-09-29 14:38:27 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-29 14:38:27 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-29 14:38:27 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-29 14:38:27 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-29 14:38:27 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-29 14:38:27 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-29 14:38:27 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-29 14:38:27 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-29 14:38:27 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-29 14:38:27 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-29 14:38:27 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-29 14:38:27 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-29 14:38:28 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-29 14:38:28 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-29 14:38:28 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-29 14:38:28 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-29 14:39:01 +0000] [1] [INFO] Handling signal: term
+[2024-09-29 14:39:02 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-29 14:39:02 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-29 14:39:02 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-29 14:39:02 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-29 14:39:02 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-29 14:39:02 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-29 14:39:02 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-29 14:39:02 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-29 14:39:02 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-29 14:39:02 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-29 14:39:02 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-29 14:39:02 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-29 14:39:02 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-29 14:39:02 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-29 14:39:02 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-29 14:39:02 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-29 14:39:03 +0000] [1] [INFO] Shutting down: Master
+[2024-09-30 05:12:18 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-30 05:12:18 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-30 05:12:18 +0000] [1] [INFO] Using worker: gthread
+[2024-09-30 05:12:18 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-30 05:12:18 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-30 05:12:18 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-30 05:12:18 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-30 05:12:18 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-30 05:12:19 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-30 05:12:19 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-30 05:12:19 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-30 05:12:19 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-30 05:12:19 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-30 05:12:19 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-30 05:12:19 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-30 05:12:19 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-30 05:12:19 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-30 05:12:19 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-30 05:12:19 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-30 05:12:34 +0000] [1] [INFO] Handling signal: term
+[2024-09-30 05:12:34 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-30 05:12:34 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-30 05:12:34 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-30 05:12:34 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-30 05:12:34 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-30 05:12:35 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-30 05:12:35 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-30 05:12:35 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-30 05:12:35 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-30 05:12:35 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-30 05:12:35 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-30 05:12:35 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-30 05:12:35 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-30 05:12:35 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-30 05:12:35 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-30 05:12:35 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-30 05:12:35 +0000] [1] [INFO] Shutting down: Master
+[2024-09-30 10:34:16 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-30 10:34:16 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-30 10:34:16 +0000] [1] [INFO] Using worker: gthread
+[2024-09-30 10:34:16 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-30 10:34:16 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-30 10:34:16 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-30 10:34:16 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-30 10:34:16 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-30 10:34:16 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-30 10:34:16 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-30 10:34:16 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-30 10:34:16 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-30 10:34:16 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-30 10:34:16 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-30 10:34:16 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-30 10:34:16 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-30 10:34:16 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-30 10:34:16 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-30 10:34:16 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-30 10:34:32 +0000] [1] [INFO] Handling signal: term
+[2024-09-30 10:34:32 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-30 10:34:32 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-30 10:34:32 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-30 10:34:32 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-30 10:34:32 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-30 10:34:32 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-30 10:34:32 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-30 10:34:32 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-30 10:34:32 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-30 10:34:32 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-30 10:34:32 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-30 10:34:32 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-30 10:34:32 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-30 10:34:32 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-30 10:34:32 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-30 10:34:32 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-30 10:34:33 +0000] [1] [INFO] Shutting down: Master
+[2024-09-30 22:42:11 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-30 22:42:11 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-30 22:42:11 +0000] [1] [INFO] Using worker: gthread
+[2024-09-30 22:42:11 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-30 22:42:11 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-30 22:42:11 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-30 22:42:11 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-30 22:42:11 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-30 22:42:11 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-30 22:42:11 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-30 22:42:11 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-30 22:42:11 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-30 22:42:11 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-30 22:42:11 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-30 22:42:11 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-30 22:42:11 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-30 22:42:11 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-30 22:42:11 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-30 22:42:11 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-30 22:42:31 +0000] [1] [INFO] Handling signal: term
+[2024-09-30 22:42:31 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-30 22:42:31 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-30 22:42:31 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-30 22:42:31 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-30 22:42:31 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-30 22:42:31 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-30 22:42:31 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-30 22:42:31 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-30 22:42:32 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-30 22:42:32 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-30 22:42:32 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-30 22:42:32 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-30 22:42:32 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-30 22:42:32 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-30 22:42:32 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-30 22:42:32 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-30 22:42:32 +0000] [1] [INFO] Shutting down: Master
+[2024-09-30 22:45:22 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-09-30 22:45:22 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-09-30 22:45:22 +0000] [1] [INFO] Using worker: gthread
+[2024-09-30 22:45:22 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-09-30 22:45:22 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-09-30 22:45:22 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-09-30 22:45:22 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-09-30 22:45:22 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-09-30 22:45:22 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-09-30 22:45:22 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-09-30 22:45:22 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-09-30 22:45:22 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-09-30 22:45:22 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-09-30 22:45:22 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-09-30 22:45:22 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-09-30 22:45:22 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-09-30 22:45:22 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-09-30 22:45:22 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-09-30 22:45:22 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-09-30 22:45:42 +0000] [1] [INFO] Handling signal: term
+[2024-09-30 22:45:42 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-09-30 22:45:42 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-09-30 22:45:42 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-09-30 22:45:42 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-09-30 22:45:42 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-09-30 22:45:43 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-09-30 22:45:43 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-09-30 22:45:43 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-09-30 22:45:43 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-09-30 22:45:43 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-09-30 22:45:43 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-09-30 22:45:43 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-09-30 22:45:43 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-09-30 22:45:43 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-09-30 22:45:43 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-09-30 22:45:43 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-09-30 22:45:43 +0000] [1] [INFO] Shutting down: Master
+[2024-10-01 11:31:26 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-01 11:31:26 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-01 11:31:26 +0000] [1] [INFO] Using worker: gthread
+[2024-10-01 11:31:26 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-01 11:31:26 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-01 11:31:26 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-01 11:31:26 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-01 11:31:27 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-01 11:31:27 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-01 11:31:27 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-01 11:31:27 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-01 11:31:27 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-01 11:31:27 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-01 11:31:27 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-01 11:31:27 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-01 11:31:27 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-01 11:31:27 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-01 11:31:27 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-01 11:31:27 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-01 11:31:46 +0000] [1] [INFO] Handling signal: term
+[2024-10-01 11:31:46 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-01 11:31:46 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-01 11:31:47 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-01 11:31:47 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-01 11:31:47 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-01 11:31:47 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-01 11:31:47 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-01 11:31:47 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-01 11:31:47 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-01 11:31:47 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-01 11:31:47 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-01 11:31:47 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-01 11:31:47 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-01 11:31:47 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-01 11:31:47 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-01 11:31:47 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-01 11:31:47 +0000] [1] [INFO] Shutting down: Master
+[2024-10-10 09:17:49 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-10 09:17:49 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-10 09:17:49 +0000] [1] [INFO] Using worker: gthread
+[2024-10-10 09:17:49 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-10 09:17:49 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-10 09:17:49 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-10 09:17:49 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-10 09:17:49 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-10 09:17:49 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-10 09:17:49 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-10 09:17:49 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-10 09:17:49 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-10 09:17:49 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-10 09:17:50 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-10 09:17:50 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-10 09:17:50 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-10 09:17:50 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-10 09:17:50 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-10 09:17:50 +0000] [30] [INFO] Booting worker with pid: 30
+[2024-10-10 09:18:14 +0000] [1] [INFO] Handling signal: term
+[2024-10-10 09:18:14 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-10 09:18:14 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-10 09:18:14 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-10 09:18:14 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-10 09:18:14 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-10 09:18:14 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-10 09:18:14 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-10 09:18:14 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-10 09:18:14 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-10 09:18:14 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-10 09:18:14 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-10 09:18:14 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-10 09:18:14 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-10 09:18:14 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-10 09:18:15 +0000] [30] [INFO] Worker exiting (pid: 30)
+[2024-10-10 09:18:15 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-10 09:18:15 +0000] [1] [INFO] Shutting down: Master
+[2024-10-10 13:02:41 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-10 13:02:41 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-10 13:02:41 +0000] [1] [INFO] Using worker: gthread
+[2024-10-10 13:02:41 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-10 13:02:41 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-10 13:02:41 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-10 13:02:41 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-10 13:02:41 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-10 13:02:41 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-10 13:02:41 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-10 13:02:41 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-10 13:02:41 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-10 13:02:41 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-10 13:02:42 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-10 13:02:42 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-10 13:02:42 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-10 13:02:42 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-10 13:02:42 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-10 13:02:42 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-10 13:03:05 +0000] [1] [INFO] Handling signal: term
+[2024-10-10 13:03:05 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-10 13:03:05 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-10 13:03:05 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-10 13:03:05 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-10 13:03:05 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-10 13:03:05 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-10 13:03:05 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-10 13:03:05 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-10 13:03:05 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-10 13:03:05 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-10 13:03:05 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-10 13:03:06 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-10 13:03:06 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-10 13:03:06 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-10 13:03:06 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-10 13:03:06 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-10 13:03:06 +0000] [1] [INFO] Shutting down: Master
+[2024-10-10 23:54:06 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-10 23:54:06 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-10 23:54:06 +0000] [1] [INFO] Using worker: gthread
+[2024-10-10 23:54:06 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-10 23:54:06 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-10 23:54:06 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-10 23:54:06 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-10 23:54:06 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-10 23:54:06 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-10 23:54:06 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-10 23:54:06 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-10 23:54:06 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-10 23:54:06 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-10 23:54:06 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-10 23:54:06 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-10 23:54:06 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-10 23:54:06 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-10 23:54:06 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-10 23:54:06 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-10 23:54:42 +0000] [1] [INFO] Handling signal: term
+[2024-10-10 23:54:42 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-10 23:54:42 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-10 23:54:42 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-10 23:54:42 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-10 23:54:42 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-10 23:54:42 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-10 23:54:42 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-10 23:54:42 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-10 23:54:42 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-10 23:54:42 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-10 23:54:42 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-10 23:54:43 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-10 23:54:43 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-10 23:54:43 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-10 23:54:43 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-10 23:54:43 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-10 23:54:44 +0000] [1] [INFO] Shutting down: Master
+[2024-10-11 10:29:20 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-11 10:29:20 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-11 10:29:20 +0000] [1] [INFO] Using worker: gthread
+[2024-10-11 10:29:20 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-11 10:29:20 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-11 10:29:20 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-11 10:29:20 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-11 10:29:20 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-11 10:29:20 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-11 10:29:20 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-11 10:29:20 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-11 10:29:20 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-11 10:29:20 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-11 10:29:21 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-11 10:29:21 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-11 10:29:21 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-11 10:29:21 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-11 10:29:21 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-11 10:29:21 +0000] [30] [INFO] Booting worker with pid: 30
+[2024-10-11 10:29:51 +0000] [1] [INFO] Handling signal: term
+[2024-10-11 10:29:52 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-11 10:29:52 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-11 10:29:52 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-11 10:29:52 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-11 10:29:52 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-11 10:29:52 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-11 10:29:52 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-11 10:29:52 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-11 10:29:52 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-11 10:29:52 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-11 10:29:52 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-11 10:29:52 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-11 10:29:52 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-11 10:29:52 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-11 10:29:52 +0000] [30] [INFO] Worker exiting (pid: 30)
+[2024-10-11 10:29:52 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-11 10:29:52 +0000] [1] [INFO] Shutting down: Master
+[2024-10-11 23:27:37 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-11 23:27:37 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-11 23:27:37 +0000] [1] [INFO] Using worker: gthread
+[2024-10-11 23:27:37 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-11 23:27:37 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-11 23:27:37 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-11 23:27:37 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-11 23:27:37 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-11 23:27:37 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-11 23:27:37 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-11 23:27:37 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-11 23:27:37 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-11 23:27:37 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-11 23:27:37 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-11 23:27:37 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-11 23:27:37 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-11 23:27:37 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-11 23:27:37 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-11 23:27:37 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-12 04:14:06 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-12 04:14:06 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-12 04:14:06 +0000] [1] [INFO] Using worker: gthread
+[2024-10-12 04:14:06 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-12 04:14:06 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-12 04:14:06 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-12 04:14:06 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-12 04:14:07 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-12 04:14:07 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-12 04:14:07 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-12 04:14:07 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-12 04:14:07 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-12 04:14:07 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-12 04:14:07 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-12 04:14:07 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-12 04:14:07 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-12 04:14:07 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-12 04:14:07 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-12 04:14:07 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-12 05:53:35 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-12 05:53:35 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-12 05:53:35 +0000] [1] [INFO] Using worker: gthread
+[2024-10-12 05:53:35 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-12 05:53:36 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-12 05:53:36 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-12 05:53:36 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-12 05:53:36 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-12 05:53:36 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-12 05:53:36 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-12 05:53:36 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-12 05:53:36 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-12 05:53:36 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-12 05:53:36 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-12 05:53:36 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-12 05:53:36 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-12 05:53:36 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-12 05:53:36 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-12 05:53:36 +0000] [30] [INFO] Booting worker with pid: 30
+[2024-10-12 05:55:28 +0000] [1] [INFO] Handling signal: term
+[2024-10-12 05:55:28 +0000] [30] [INFO] Worker exiting (pid: 30)
+[2024-10-12 05:55:29 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-12 05:55:29 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-12 05:55:29 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-12 05:55:29 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-12 05:55:29 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-12 05:55:29 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-12 05:55:29 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-12 05:55:29 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-12 05:55:29 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-12 05:55:29 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-12 05:55:29 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-12 05:55:29 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-12 05:55:29 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-12 05:55:29 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-12 05:55:29 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-12 05:55:29 +0000] [1] [INFO] Shutting down: Master
+[2024-10-13 03:27:13 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-13 03:27:13 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-13 03:27:13 +0000] [1] [INFO] Using worker: gthread
+[2024-10-13 03:27:13 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-13 03:27:13 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-13 03:27:13 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-13 03:27:13 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-13 03:27:13 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-13 03:27:13 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-13 03:27:14 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-13 03:27:14 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-13 03:27:14 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-13 03:27:14 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-13 03:27:14 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-13 03:27:14 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-13 03:27:14 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-13 03:27:14 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-13 03:27:14 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-13 03:27:14 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-14 07:08:15 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-14 07:08:15 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-14 07:08:15 +0000] [1] [INFO] Using worker: gthread
+[2024-10-14 07:08:15 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-14 07:08:15 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-14 07:08:15 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-14 07:08:15 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-14 07:08:15 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-14 07:08:16 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-14 07:08:16 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-14 07:08:16 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-14 07:08:16 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-14 07:08:16 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-14 07:08:16 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-14 07:08:16 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-14 07:08:16 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-14 07:08:16 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-14 07:08:16 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-14 07:08:16 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-14 10:44:53 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-14 10:44:53 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-14 10:44:53 +0000] [1] [INFO] Using worker: gthread
+[2024-10-14 10:44:53 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-14 10:44:53 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-14 10:44:53 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-14 10:44:53 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-14 10:44:53 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-14 10:44:53 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-14 10:44:53 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-14 10:44:53 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-14 10:44:53 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-14 10:44:53 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-14 10:44:53 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-14 10:44:53 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-14 10:44:53 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-14 10:44:53 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-14 10:44:53 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-14 10:44:53 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-15 10:47:03 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-15 10:47:03 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-15 10:47:03 +0000] [1] [INFO] Using worker: gthread
+[2024-10-15 10:47:03 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-15 10:47:03 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-15 10:47:03 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-15 10:47:03 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-15 10:47:03 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-15 10:47:03 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-15 10:47:03 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-15 10:47:03 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-15 10:47:03 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-15 10:47:03 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-15 10:47:03 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-15 10:47:03 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-15 10:47:03 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-15 10:47:03 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-15 10:47:03 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-15 10:47:03 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-16 00:40:28 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-16 00:40:28 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-16 00:40:28 +0000] [1] [INFO] Using worker: gthread
+[2024-10-16 00:40:28 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-16 00:40:28 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-16 00:40:28 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-16 00:40:28 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-16 00:40:28 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-16 00:40:28 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-16 00:40:28 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-16 00:40:28 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-16 00:40:28 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-16 00:40:28 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-16 00:40:29 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-16 00:40:29 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-16 00:40:29 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-16 00:40:29 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-16 00:40:29 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-16 00:40:29 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-16 01:56:29 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2024-10-16 01:56:29 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-16 01:56:29 +0000] [1] [ERROR] Worker (pid:29) exited with code 1
+[2024-10-16 01:56:29 +0000] [1] [ERROR] Worker (pid:29) exited with code 1.
+[2024-10-16 01:56:29 +0000] [5254] [INFO] Booting worker with pid: 5254
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2024-10-16 04:08:24 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-16 04:08:24 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2024-10-16 04:08:24 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-16 04:08:24 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2024-10-16 04:08:24 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2024-10-16 04:08:24 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2024-10-16 04:08:24 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-16 04:08:24 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-16 04:08:24 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:15) exited with code 1
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:15) exited with code 1.
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:16) exited with code 1
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:16) exited with code 1.
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:17) exited with code 1
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:17) exited with code 1.
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:24) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:27) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:28) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:14) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 04:08:25 +0000] [12839] [INFO] Booting worker with pid: 12839
+[2024-10-16 04:08:25 +0000] [12840] [INFO] Booting worker with pid: 12840
+[2024-10-16 04:08:25 +0000] [12841] [INFO] Booting worker with pid: 12841
+[2024-10-16 04:08:25 +0000] [12842] [INFO] Booting worker with pid: 12842
+[2024-10-16 04:08:25 +0000] [12843] [INFO] Booting worker with pid: 12843
+[2024-10-16 04:08:25 +0000] [12844] [INFO] Booting worker with pid: 12844
+[2024-10-16 04:08:25 +0000] [12845] [INFO] Booting worker with pid: 12845
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:23) exited with code 1
+[2024-10-16 04:08:25 +0000] [1] [ERROR] Worker (pid:23) exited with code 1.
+[2024-10-16 04:08:25 +0000] [12846] [INFO] Booting worker with pid: 12846
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:12839)
+[2024-10-16 05:46:21 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-16 05:46:21 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:12841)
+[2024-10-16 05:46:21 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-16 05:46:21 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:12844)
+[2024-10-16 05:46:21 +0000] [12839] [INFO] Worker exiting (pid: 12839)
+[2024-10-16 05:46:21 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:12846)
+[2024-10-16 05:46:21 +0000] [12841] [INFO] Worker exiting (pid: 12841)
+[2024-10-16 05:46:21 +0000] [12844] [INFO] Worker exiting (pid: 12844)
+[2024-10-16 05:46:21 +0000] [12846] [INFO] Worker exiting (pid: 12846)
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:21) exited with code 1
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:21) exited with code 1.
+[2024-10-16 05:46:22 +0000] [17746] [INFO] Booting worker with pid: 17746
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12844) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:22) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:18) was sent SIGKILL! Perhaps out of memory?
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12839) exited with code 1
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12839) exited with code 1.
+[2024-10-16 05:46:22 +0000] [17747] [INFO] Booting worker with pid: 17747
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12846) exited with code 1
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12846) exited with code 1.
+[2024-10-16 05:46:22 +0000] [17748] [INFO] Booting worker with pid: 17748
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:19) exited with code 1
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:19) exited with code 1.
+[2024-10-16 05:46:22 +0000] [17749] [INFO] Booting worker with pid: 17749
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12841) exited with code 1
+[2024-10-16 05:46:22 +0000] [1] [ERROR] Worker (pid:12841) exited with code 1.
+[2024-10-16 05:46:22 +0000] [17750] [INFO] Booting worker with pid: 17750
+[2024-10-16 05:46:22 +0000] [17751] [INFO] Booting worker with pid: 17751
+[2024-10-16 05:46:22 +0000] [17752] [INFO] Booting worker with pid: 17752
+[2024-10-16 05:46:22 +0000] [17753] [INFO] Booting worker with pid: 17753
+[2024-10-16 07:37:17 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2024-10-16 07:37:17 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2024-10-16 07:37:17 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-16 07:37:17 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-16 07:37:17 +0000] [1] [ERROR] Worker (pid:25) exited with code 1
+[2024-10-16 07:37:17 +0000] [1] [ERROR] Worker (pid:25) exited with code 1.
+[2024-10-16 07:37:17 +0000] [1] [ERROR] Worker (pid:26) exited with code 1
+[2024-10-16 07:37:17 +0000] [1] [ERROR] Worker (pid:26) exited with code 1.
+[2024-10-16 07:37:17 +0000] [24853] [INFO] Booting worker with pid: 24853
+[2024-10-16 07:37:17 +0000] [24854] [INFO] Booting worker with pid: 24854
+[2024-10-16 10:34:34 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-16 10:34:34 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-16 10:34:34 +0000] [1] [INFO] Using worker: gthread
+[2024-10-16 10:34:34 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-16 10:34:34 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-16 10:34:35 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-16 10:34:35 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-16 10:34:35 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-16 10:34:35 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-16 10:34:35 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-16 10:34:35 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-16 10:34:35 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-16 10:34:35 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-16 10:34:35 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-16 10:34:35 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-16 10:34:35 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-16 10:34:35 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-16 10:34:35 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-16 10:34:35 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-17 14:38:26 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-17 14:38:26 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-17 14:38:26 +0000] [1] [INFO] Using worker: gthread
+[2024-10-17 14:38:26 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-17 14:38:26 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-17 14:38:26 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-17 14:38:27 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-17 14:38:27 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-17 14:38:27 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-17 14:38:27 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-17 14:38:27 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-17 14:38:27 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-17 14:38:27 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-17 14:38:27 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-17 14:38:27 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-17 14:38:27 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-17 14:38:27 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-17 14:38:27 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-17 14:38:27 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-17 23:36:05 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-17 23:36:05 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-17 23:36:05 +0000] [1] [INFO] Using worker: gthread
+[2024-10-17 23:36:05 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-17 23:36:05 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-17 23:36:05 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-17 23:36:05 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-17 23:36:05 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-17 23:36:05 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-17 23:36:05 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-17 23:36:06 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-17 23:36:06 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-17 23:36:06 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-17 23:36:06 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-17 23:36:06 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-17 23:36:06 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-17 23:36:06 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-17 23:36:06 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-17 23:36:06 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-18 03:05:34 +0000] [1] [INFO] Handling signal: term
+[2024-10-18 03:05:34 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-18 03:05:34 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-18 03:05:34 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-18 03:05:34 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-18 03:05:34 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-18 03:05:34 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-18 03:05:34 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-18 03:05:34 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-18 03:05:34 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-18 03:05:34 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-18 03:05:35 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-18 03:05:35 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-18 03:05:35 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-18 03:05:35 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-18 03:05:35 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-18 03:05:35 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-18 03:05:36 +0000] [1] [INFO] Shutting down: Master
+[2024-10-19 07:56:56 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-19 07:56:56 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-19 07:56:56 +0000] [1] [INFO] Using worker: gthread
+[2024-10-19 07:56:56 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-19 07:56:56 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-19 07:56:56 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-19 07:56:56 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-19 07:56:56 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-19 07:56:56 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-19 07:56:56 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-19 07:56:56 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-19 07:56:56 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-19 07:56:56 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-19 07:56:56 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-19 07:56:56 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-19 07:56:56 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-19 07:56:57 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-19 07:56:57 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-19 07:56:57 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2024-10-19 16:58:15 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-19 16:58:15 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2024-10-19 16:58:15 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2024-10-19 16:58:15 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-19 16:58:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2024-10-19 16:58:15 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-19 16:58:15 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-19 16:58:15 +0000] [1] [ERROR] Worker (pid:15) exited with code 1
+[2024-10-19 16:58:15 +0000] [1] [ERROR] Worker (pid:15) exited with code 1.
+[2024-10-19 16:58:15 +0000] [1] [ERROR] Worker (pid:20) was sent SIGKILL! Perhaps out of memory?
+[2024-10-19 16:58:15 +0000] [1] [ERROR] Worker (pid:14) was sent SIGKILL! Perhaps out of memory?
+[2024-10-19 16:58:15 +0000] [30577] [INFO] Booting worker with pid: 30577
+[2024-10-19 16:58:16 +0000] [30578] [INFO] Booting worker with pid: 30578
+[2024-10-19 16:58:16 +0000] [30579] [INFO] Booting worker with pid: 30579
+[2024-10-19 16:58:16 +0000] [30580] [INFO] Booting worker with pid: 30580
+[2024-10-19 16:58:16 +0000] [30581] [INFO] Booting worker with pid: 30581
+[2024-10-19 16:58:16 +0000] [30582] [INFO] Booting worker with pid: 30582
+[2024-10-19 21:50:35 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2024-10-19 21:50:35 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2024-10-19 21:50:35 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2024-10-19 21:50:35 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2024-10-19 21:50:35 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2024-10-19 21:50:35 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-19 21:50:35 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-19 21:50:35 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-19 21:50:35 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-19 21:50:35 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-19 21:50:36 +0000] [1] [ERROR] Worker (pid:21) exited with code 1
+[2024-10-19 21:50:36 +0000] [1] [ERROR] Worker (pid:21) exited with code 1.
+[2024-10-19 21:50:36 +0000] [30589] [INFO] Booting worker with pid: 30589
+[2024-10-19 21:50:36 +0000] [1] [ERROR] Worker (pid:16) was sent SIGKILL! Perhaps out of memory?
+[2024-10-19 21:50:36 +0000] [30590] [INFO] Booting worker with pid: 30590
+[2024-10-19 21:50:36 +0000] [30591] [INFO] Booting worker with pid: 30591
+[2024-10-19 21:50:36 +0000] [30592] [INFO] Booting worker with pid: 30592
+[2024-10-19 21:50:36 +0000] [30593] [INFO] Booting worker with pid: 30593
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2024-10-19 22:00:33 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2024-10-19 22:00:33 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30577)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30578)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30581)
+[2024-10-19 22:00:33 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-19 22:00:33 +0000] [30577] [INFO] Worker exiting (pid: 30577)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30589)
+[2024-10-19 22:00:33 +0000] [30578] [INFO] Worker exiting (pid: 30578)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30590)
+[2024-10-19 22:00:33 +0000] [30581] [INFO] Worker exiting (pid: 30581)
+[2024-10-19 22:00:33 +0000] [30589] [INFO] Worker exiting (pid: 30589)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30591)
+[2024-10-19 22:00:33 +0000] [30590] [INFO] Worker exiting (pid: 30590)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30592)
+[2024-10-19 22:00:33 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30593)
+[2024-10-19 22:00:33 +0000] [30592] [INFO] Worker exiting (pid: 30592)
+[2024-10-19 22:00:33 +0000] [30591] [INFO] Worker exiting (pid: 30591)
+[2024-10-19 22:00:33 +0000] [30593] [INFO] Worker exiting (pid: 30593)
+[2024-10-19 22:00:33 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-19 22:00:33 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30578) exited with code 1
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30578) exited with code 1.
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30589) exited with code 1
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30589) exited with code 1.
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30590) exited with code 1
+[2024-10-19 22:00:33 +0000] [1] [ERROR] Worker (pid:30590) exited with code 1.
+[2024-10-19 22:00:34 +0000] [30944] [INFO] Booting worker with pid: 30944
+[2024-10-19 22:00:34 +0000] [1] [ERROR] Worker (pid:17) was sent SIGKILL! Perhaps out of memory?
+[2024-10-19 22:00:34 +0000] [30945] [INFO] Booting worker with pid: 30945
+[2024-10-19 22:00:34 +0000] [30946] [INFO] Booting worker with pid: 30946
+[2024-10-19 22:00:34 +0000] [30947] [INFO] Booting worker with pid: 30947
+[2024-10-19 22:00:34 +0000] [30948] [INFO] Booting worker with pid: 30948
+[2024-10-19 22:00:34 +0000] [30949] [INFO] Booting worker with pid: 30949
+[2024-10-19 22:00:34 +0000] [30950] [INFO] Booting worker with pid: 30950
+[2024-10-19 22:00:34 +0000] [30951] [INFO] Booting worker with pid: 30951
+[2024-10-19 22:00:34 +0000] [30952] [INFO] Booting worker with pid: 30952
+[2024-10-19 22:00:34 +0000] [30953] [INFO] Booting worker with pid: 30953
+[2024-10-19 22:00:34 +0000] [30954] [INFO] Booting worker with pid: 30954
+[2024-10-19 22:00:34 +0000] [30955] [INFO] Booting worker with pid: 30955
+[2024-10-19 22:00:34 +0000] [30956] [INFO] Booting worker with pid: 30956
+[2024-10-19 22:44:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30956)
+[2024-10-19 22:44:02 +0000] [30956] [INFO] Worker exiting (pid: 30956)
+[2024-10-19 22:44:03 +0000] [1] [ERROR] Worker (pid:30956) exited with code 1
+[2024-10-19 22:44:03 +0000] [1] [ERROR] Worker (pid:30956) exited with code 1.
+[2024-10-19 22:44:03 +0000] [30957] [INFO] Booting worker with pid: 30957
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30579)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30580)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30582)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30944)
+[2024-10-19 23:29:22 +0000] [30579] [INFO] Worker exiting (pid: 30579)
+[2024-10-19 23:29:22 +0000] [30580] [INFO] Worker exiting (pid: 30580)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30945)
+[2024-10-19 23:29:22 +0000] [30582] [INFO] Worker exiting (pid: 30582)
+[2024-10-19 23:29:22 +0000] [30944] [INFO] Worker exiting (pid: 30944)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30946)
+[2024-10-19 23:29:22 +0000] [30945] [INFO] Worker exiting (pid: 30945)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30947)
+[2024-10-19 23:29:22 +0000] [30946] [INFO] Worker exiting (pid: 30946)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30948)
+[2024-10-19 23:29:22 +0000] [30947] [INFO] Worker exiting (pid: 30947)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30949)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30950)
+[2024-10-19 23:29:22 +0000] [30948] [INFO] Worker exiting (pid: 30948)
+[2024-10-19 23:29:22 +0000] [30949] [INFO] Worker exiting (pid: 30949)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30951)
+[2024-10-19 23:29:22 +0000] [30950] [INFO] Worker exiting (pid: 30950)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30952)
+[2024-10-19 23:29:22 +0000] [30951] [INFO] Worker exiting (pid: 30951)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30953)
+[2024-10-19 23:29:22 +0000] [30952] [INFO] Worker exiting (pid: 30952)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30954)
+[2024-10-19 23:29:22 +0000] [30953] [INFO] Worker exiting (pid: 30953)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30955)
+[2024-10-19 23:29:22 +0000] [30954] [INFO] Worker exiting (pid: 30954)
+[2024-10-19 23:29:22 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:30957)
+[2024-10-19 23:29:22 +0000] [30955] [INFO] Worker exiting (pid: 30955)
+[2024-10-19 23:29:22 +0000] [30957] [INFO] Worker exiting (pid: 30957)
+[2024-10-19 23:29:22 +0000] [1] [ERROR] Worker (pid:30947) exited with code 1
+[2024-10-19 23:29:22 +0000] [1] [ERROR] Worker (pid:30947) exited with code 1.
+[2024-10-19 23:29:22 +0000] [1] [ERROR] Worker (pid:30944) exited with code 1
+[2024-10-19 23:29:22 +0000] [1] [ERROR] Worker (pid:30944) exited with code 1.
+[2024-10-19 23:29:22 +0000] [30964] [INFO] Booting worker with pid: 30964
+[2024-10-19 23:29:22 +0000] [30965] [INFO] Booting worker with pid: 30965
+[2024-10-19 23:29:22 +0000] [30966] [INFO] Booting worker with pid: 30966
+[2024-10-19 23:29:23 +0000] [30967] [INFO] Booting worker with pid: 30967
+[2024-10-19 23:29:23 +0000] [30968] [INFO] Booting worker with pid: 30968
+[2024-10-19 23:29:23 +0000] [30969] [INFO] Booting worker with pid: 30969
+[2024-10-19 23:29:23 +0000] [30970] [INFO] Booting worker with pid: 30970
+[2024-10-19 23:29:23 +0000] [30971] [INFO] Booting worker with pid: 30971
+[2024-10-19 23:29:23 +0000] [30972] [INFO] Booting worker with pid: 30972
+[2024-10-19 23:29:23 +0000] [30973] [INFO] Booting worker with pid: 30973
+[2024-10-19 23:29:23 +0000] [30974] [INFO] Booting worker with pid: 30974
+[2024-10-19 23:29:23 +0000] [30975] [INFO] Booting worker with pid: 30975
+[2024-10-19 23:29:23 +0000] [30976] [INFO] Booting worker with pid: 30976
+[2024-10-19 23:29:23 +0000] [30977] [INFO] Booting worker with pid: 30977
+[2024-10-19 23:29:23 +0000] [30978] [INFO] Booting worker with pid: 30978
+[2024-10-19 23:29:23 +0000] [30979] [INFO] Booting worker with pid: 30979
+[2024-10-21 13:09:09 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-21 13:09:09 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-21 13:09:09 +0000] [1] [INFO] Using worker: gthread
+[2024-10-21 13:09:09 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-21 13:09:09 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-21 13:09:09 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-21 13:09:09 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-21 13:09:09 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-21 13:09:09 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-21 13:09:09 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-21 13:09:09 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-21 13:09:09 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-21 13:09:10 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-21 13:09:10 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-21 13:09:10 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-21 13:09:10 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-21 13:09:10 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-21 13:09:10 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-21 13:09:10 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-21 13:12:55 +0000] [1] [INFO] Handling signal: term
+[2024-10-21 13:12:55 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-21 13:12:55 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-21 13:12:55 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-21 13:12:55 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-21 13:12:55 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-21 13:12:55 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-21 13:12:55 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-21 13:12:55 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-21 13:12:55 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-21 13:12:55 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-21 13:12:55 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-21 13:12:55 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-21 13:12:55 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-21 13:12:55 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-21 13:12:55 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-21 13:12:55 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-21 13:12:55 +0000] [1] [INFO] Shutting down: Master
+[2024-10-22 10:10:25 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-22 10:10:25 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-22 10:10:25 +0000] [1] [INFO] Using worker: gthread
+[2024-10-22 10:10:25 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-22 10:10:25 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-22 10:10:25 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-22 10:10:25 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-22 10:10:25 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-22 10:10:25 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-22 10:10:25 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-22 10:10:25 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-22 10:10:25 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-22 10:10:25 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-22 10:10:26 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-22 10:10:26 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-22 10:10:26 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-22 10:10:26 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-22 10:10:26 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-22 10:10:26 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-22 10:54:38 +0000] [1] [INFO] Handling signal: term
+[2024-10-22 10:54:38 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-22 10:54:38 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-22 10:54:38 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-22 10:54:39 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-22 10:54:39 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-22 10:54:39 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-22 10:54:39 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-22 10:54:39 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-22 10:54:39 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-22 10:54:39 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-22 10:54:39 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-22 10:54:39 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-22 10:54:39 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-22 10:54:39 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-22 10:54:39 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-22 10:54:39 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-22 10:54:39 +0000] [1] [INFO] Shutting down: Master
+[2024-10-22 10:54:56 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-22 10:54:56 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-22 10:54:56 +0000] [1] [INFO] Using worker: gthread
+[2024-10-22 10:54:56 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-22 10:54:56 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-22 10:54:56 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-22 10:54:56 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-22 10:54:56 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-22 10:54:56 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-22 10:54:56 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-22 10:54:56 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-22 10:54:56 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-22 10:54:56 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-22 10:54:56 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-22 10:54:56 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-22 10:54:56 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-22 10:54:56 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-22 10:54:56 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-22 10:54:56 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2024-10-22 21:38:08 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2024-10-22 21:38:08 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-22 21:38:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2024-10-22 21:38:08 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-22 21:38:08 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-22 21:38:08 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-22 21:38:08 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:15) exited with code 1
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:15) exited with code 1.
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:21) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:14) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:17) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:18) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 21:38:08 +0000] [1] [ERROR] Worker (pid:16) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 21:38:08 +0000] [21108] [INFO] Booting worker with pid: 21108
+[2024-10-22 21:38:09 +0000] [21109] [INFO] Booting worker with pid: 21109
+[2024-10-22 21:38:09 +0000] [21110] [INFO] Booting worker with pid: 21110
+[2024-10-22 21:38:09 +0000] [21111] [INFO] Booting worker with pid: 21111
+[2024-10-22 21:38:09 +0000] [21112] [INFO] Booting worker with pid: 21112
+[2024-10-22 21:38:09 +0000] [21113] [INFO] Booting worker with pid: 21113
+[2024-10-22 21:50:31 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2024-10-22 21:50:31 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21108)
+[2024-10-22 21:50:31 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21109)
+[2024-10-22 21:50:31 +0000] [21108] [INFO] Worker exiting (pid: 21108)
+[2024-10-22 21:50:32 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21111)
+[2024-10-22 21:50:32 +0000] [21109] [INFO] Worker exiting (pid: 21109)
+[2024-10-22 21:50:32 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21113)
+[2024-10-22 21:50:32 +0000] [21111] [INFO] Worker exiting (pid: 21111)
+[2024-10-22 21:50:31 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-22 21:50:32 +0000] [21113] [INFO] Worker exiting (pid: 21113)
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21108) exited with code 1
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21108) exited with code 1.
+[2024-10-22 21:50:32 +0000] [21120] [INFO] Booting worker with pid: 21120
+[2024-10-22 21:50:32 +0000] [21121] [INFO] Booting worker with pid: 21121
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21111) exited with code 1
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21111) exited with code 1.
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21113) exited with code 1
+[2024-10-22 21:50:32 +0000] [21122] [INFO] Booting worker with pid: 21122
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:21113) exited with code 1.
+[2024-10-22 21:50:32 +0000] [21123] [INFO] Booting worker with pid: 21123
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:19) exited with code 1
+[2024-10-22 21:50:32 +0000] [1] [ERROR] Worker (pid:19) exited with code 1.
+[2024-10-22 21:50:32 +0000] [21124] [INFO] Booting worker with pid: 21124
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21110)
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21122)
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21123)
+[2024-10-22 22:00:25 +0000] [21110] [INFO] Worker exiting (pid: 21110)
+[2024-10-22 22:00:25 +0000] [21122] [INFO] Worker exiting (pid: 21122)
+[2024-10-22 22:00:25 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21124)
+[2024-10-22 22:00:25 +0000] [21123] [INFO] Worker exiting (pid: 21123)
+[2024-10-22 22:00:25 +0000] [21124] [INFO] Worker exiting (pid: 21124)
+[2024-10-22 22:00:25 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-22 22:00:25 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:21123) exited with code 1
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:21123) exited with code 1.
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:21124) exited with code 1
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:21124) exited with code 1.
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:29) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:00:25 +0000] [21131] [INFO] Booting worker with pid: 21131
+[2024-10-22 22:00:25 +0000] [1] [ERROR] Worker (pid:20) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:00:25 +0000] [21132] [INFO] Booting worker with pid: 21132
+[2024-10-22 22:00:25 +0000] [21133] [INFO] Booting worker with pid: 21133
+[2024-10-22 22:00:25 +0000] [21134] [INFO] Booting worker with pid: 21134
+[2024-10-22 22:00:25 +0000] [21135] [INFO] Booting worker with pid: 21135
+[2024-10-22 22:00:25 +0000] [21136] [INFO] Booting worker with pid: 21136
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21120)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21121)
+[2024-10-22 22:37:28 +0000] [21120] [INFO] Worker exiting (pid: 21120)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21131)
+[2024-10-22 22:37:28 +0000] [21121] [INFO] Worker exiting (pid: 21121)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21132)
+[2024-10-22 22:37:28 +0000] [21131] [INFO] Worker exiting (pid: 21131)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21133)
+[2024-10-22 22:37:28 +0000] [21132] [INFO] Worker exiting (pid: 21132)
+[2024-10-22 22:37:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21136)
+[2024-10-22 22:37:28 +0000] [21133] [INFO] Worker exiting (pid: 21133)
+[2024-10-22 22:37:28 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-22 22:37:28 +0000] [21136] [INFO] Worker exiting (pid: 21136)
+[2024-10-22 22:37:28 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-22 22:37:28 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-22 22:37:28 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-22 22:37:28 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-22 22:37:28 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-22 22:37:28 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21121) exited with code 1
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21121) exited with code 1.
+[2024-10-22 22:37:28 +0000] [21143] [INFO] Booting worker with pid: 21143
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21136) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21131) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21132) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:37:28 +0000] [1] [ERROR] Worker (pid:21133) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 22:37:28 +0000] [21144] [INFO] Booting worker with pid: 21144
+[2024-10-22 22:37:28 +0000] [21145] [INFO] Booting worker with pid: 21145
+[2024-10-22 22:37:28 +0000] [21146] [INFO] Booting worker with pid: 21146
+[2024-10-22 22:37:28 +0000] [21147] [INFO] Booting worker with pid: 21147
+[2024-10-22 22:37:28 +0000] [21148] [INFO] Booting worker with pid: 21148
+[2024-10-22 22:37:28 +0000] [21149] [INFO] Booting worker with pid: 21149
+[2024-10-22 22:37:28 +0000] [21150] [INFO] Booting worker with pid: 21150
+[2024-10-22 22:37:28 +0000] [21151] [INFO] Booting worker with pid: 21151
+[2024-10-22 22:37:29 +0000] [21152] [INFO] Booting worker with pid: 21152
+[2024-10-22 22:37:29 +0000] [21153] [INFO] Booting worker with pid: 21153
+[2024-10-22 22:37:29 +0000] [21154] [INFO] Booting worker with pid: 21154
+[2024-10-22 22:37:29 +0000] [21155] [INFO] Booting worker with pid: 21155
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21112)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21134)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21135)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21143)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21144)
+[2024-10-22 23:50:52 +0000] [21112] [INFO] Worker exiting (pid: 21112)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21145)
+[2024-10-22 23:50:52 +0000] [21134] [INFO] Worker exiting (pid: 21134)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21146)
+[2024-10-22 23:50:52 +0000] [21135] [INFO] Worker exiting (pid: 21135)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21147)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21148)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21149)
+[2024-10-22 23:50:52 +0000] [21143] [INFO] Worker exiting (pid: 21143)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21154)
+[2024-10-22 23:50:52 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21155)
+[2024-10-22 23:50:52 +0000] [21146] [INFO] Worker exiting (pid: 21146)
+[2024-10-22 23:50:52 +0000] [21148] [INFO] Worker exiting (pid: 21148)
+[2024-10-22 23:50:52 +0000] [21144] [INFO] Worker exiting (pid: 21144)
+[2024-10-22 23:50:52 +0000] [21147] [INFO] Worker exiting (pid: 21147)
+[2024-10-22 23:50:52 +0000] [21155] [INFO] Worker exiting (pid: 21155)
+[2024-10-22 23:50:52 +0000] [21145] [INFO] Worker exiting (pid: 21145)
+[2024-10-22 23:50:52 +0000] [21149] [INFO] Worker exiting (pid: 21149)
+[2024-10-22 23:50:52 +0000] [21154] [INFO] Worker exiting (pid: 21154)
+[2024-10-22 23:50:52 +0000] [1] [ERROR] Worker (pid:21112) exited with code 1
+[2024-10-22 23:50:52 +0000] [1] [ERROR] Worker (pid:21112) exited with code 1.
+[2024-10-22 23:50:52 +0000] [21401] [INFO] Booting worker with pid: 21401
+[2024-10-22 23:50:52 +0000] [1] [ERROR] Worker (pid:21135) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 23:50:52 +0000] [1] [ERROR] Worker (pid:21149) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 23:50:52 +0000] [1] [ERROR] Worker (pid:21134) was sent SIGKILL! Perhaps out of memory?
+[2024-10-22 23:50:52 +0000] [21402] [INFO] Booting worker with pid: 21402
+[2024-10-22 23:50:52 +0000] [21403] [INFO] Booting worker with pid: 21403
+[2024-10-22 23:50:52 +0000] [21404] [INFO] Booting worker with pid: 21404
+[2024-10-22 23:50:52 +0000] [21405] [INFO] Booting worker with pid: 21405
+[2024-10-22 23:50:52 +0000] [21406] [INFO] Booting worker with pid: 21406
+[2024-10-22 23:50:53 +0000] [21407] [INFO] Booting worker with pid: 21407
+[2024-10-22 23:50:53 +0000] [21408] [INFO] Booting worker with pid: 21408
+[2024-10-22 23:50:53 +0000] [21409] [INFO] Booting worker with pid: 21409
+[2024-10-22 23:50:53 +0000] [21410] [INFO] Booting worker with pid: 21410
+[2024-10-22 23:50:53 +0000] [21411] [INFO] Booting worker with pid: 21411
+[2024-10-22 23:50:53 +0000] [21412] [INFO] Booting worker with pid: 21412
+[2024-10-23 05:28:18 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-23 05:28:18 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-23 05:28:18 +0000] [1] [INFO] Using worker: gthread
+[2024-10-23 05:28:18 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-23 05:28:18 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-23 05:28:18 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-23 05:28:18 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-23 05:28:18 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-23 05:28:18 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-23 05:28:18 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-23 05:28:18 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-23 05:28:18 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-23 05:28:19 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-23 05:28:19 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-23 05:28:19 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-23 05:28:19 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-23 05:28:19 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-23 05:28:19 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-23 05:28:19 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-23 05:49:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2024-10-23 05:49:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2024-10-23 05:49:15 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-23 05:49:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2024-10-23 05:49:15 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-23 05:49:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:28)
+[2024-10-23 05:49:15 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-23 05:49:15 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2024-10-23 05:49:15 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-23 05:49:15 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-23 05:49:15 +0000] [1] [ERROR] Worker (pid:25) exited with code 1
+[2024-10-23 05:49:16 +0000] [1] [ERROR] Worker (pid:25) exited with code 1.
+[2024-10-23 05:49:16 +0000] [228] [INFO] Booting worker with pid: 228
+[2024-10-23 05:49:16 +0000] [229] [INFO] Booting worker with pid: 229
+[2024-10-23 05:49:16 +0000] [1] [ERROR] Worker (pid:28) exited with code 1
+[2024-10-23 05:49:16 +0000] [1] [ERROR] Worker (pid:28) exited with code 1.
+[2024-10-23 05:49:16 +0000] [230] [INFO] Booting worker with pid: 230
+[2024-10-23 05:49:16 +0000] [231] [INFO] Booting worker with pid: 231
+[2024-10-23 05:49:16 +0000] [232] [INFO] Booting worker with pid: 232
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2024-10-23 05:55:54 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-23 05:55:54 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:228)
+[2024-10-23 05:55:54 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:229)
+[2024-10-23 05:55:54 +0000] [228] [INFO] Worker exiting (pid: 228)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:230)
+[2024-10-23 05:55:54 +0000] [229] [INFO] Worker exiting (pid: 229)
+[2024-10-23 05:55:54 +0000] [230] [INFO] Worker exiting (pid: 230)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:231)
+[2024-10-23 05:55:54 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:232)
+[2024-10-23 05:55:54 +0000] [231] [INFO] Worker exiting (pid: 231)
+[2024-10-23 05:55:54 +0000] [232] [INFO] Worker exiting (pid: 232)
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:23) exited with code 1
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:232) exited with code 1
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:228) exited with code 1
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:228) exited with code 1.
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:231) exited with code 1
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:231) exited with code 1.
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:24) exited with code 1
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:24) exited with code 1.
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:232) exited with code 1.
+[2024-10-23 05:55:54 +0000] [1] [ERROR] Worker (pid:23) exited with code 1.
+[2024-10-23 05:55:54 +0000] [239] [INFO] Booting worker with pid: 239
+[2024-10-23 05:55:54 +0000] [240] [INFO] Booting worker with pid: 240
+[2024-10-23 05:55:54 +0000] [241] [INFO] Booting worker with pid: 241
+[2024-10-23 05:55:54 +0000] [242] [INFO] Booting worker with pid: 242
+[2024-10-23 05:55:54 +0000] [243] [INFO] Booting worker with pid: 243
+[2024-10-23 05:55:54 +0000] [244] [INFO] Booting worker with pid: 244
+[2024-10-23 05:55:54 +0000] [245] [INFO] Booting worker with pid: 245
+[2024-10-23 05:55:55 +0000] [246] [INFO] Booting worker with pid: 246
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:245)
+[2024-10-23 07:38:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:246)
+[2024-10-23 07:38:02 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-23 07:38:02 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-23 07:38:02 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-23 07:38:02 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-23 07:38:02 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-23 07:38:02 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-23 07:38:02 +0000] [246] [INFO] Worker exiting (pid: 246)
+[2024-10-23 07:38:02 +0000] [245] [INFO] Worker exiting (pid: 245)
+[2024-10-23 07:38:02 +0000] [1] [ERROR] Worker (pid:14) exited with code 1
+[2024-10-23 07:38:02 +0000] [1] [ERROR] Worker (pid:14) exited with code 1.
+[2024-10-23 07:38:02 +0000] [1] [ERROR] Worker (pid:17) exited with code 1
+[2024-10-23 07:38:02 +0000] [1] [ERROR] Worker (pid:17) exited with code 1.
+[2024-10-23 07:38:02 +0000] [1] [ERROR] Worker (pid:245) was sent SIGKILL! Perhaps out of memory?
+[2024-10-23 07:38:02 +0000] [7354] [INFO] Booting worker with pid: 7354
+[2024-10-23 07:38:02 +0000] [7355] [INFO] Booting worker with pid: 7355
+[2024-10-23 07:38:02 +0000] [7356] [INFO] Booting worker with pid: 7356
+[2024-10-23 07:38:02 +0000] [7357] [INFO] Booting worker with pid: 7357
+[2024-10-23 07:38:02 +0000] [7358] [INFO] Booting worker with pid: 7358
+[2024-10-23 07:38:02 +0000] [7359] [INFO] Booting worker with pid: 7359
+[2024-10-23 07:38:02 +0000] [7360] [INFO] Booting worker with pid: 7360
+[2024-10-23 07:38:02 +0000] [7361] [INFO] Booting worker with pid: 7361
+[2024-10-23 08:54:33 +0000] [1] [INFO] Handling signal: term
+[2024-10-23 08:54:33 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-23 08:54:33 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-23 08:54:34 +0000] [7356] [INFO] Worker exiting (pid: 7356)
+[2024-10-23 08:54:34 +0000] [7354] [INFO] Worker exiting (pid: 7354)
+[2024-10-23 08:54:34 +0000] [239] [INFO] Worker exiting (pid: 239)
+[2024-10-23 08:54:34 +0000] [7355] [INFO] Worker exiting (pid: 7355)
+[2024-10-23 08:54:34 +0000] [240] [INFO] Worker exiting (pid: 240)
+[2024-10-23 08:54:34 +0000] [242] [INFO] Worker exiting (pid: 242)
+[2024-10-23 08:54:34 +0000] [241] [INFO] Worker exiting (pid: 241)
+[2024-10-23 08:54:34 +0000] [7358] [INFO] Worker exiting (pid: 7358)
+[2024-10-23 08:54:34 +0000] [7357] [INFO] Worker exiting (pid: 7357)
+[2024-10-23 08:54:34 +0000] [7360] [INFO] Worker exiting (pid: 7360)
+[2024-10-23 08:54:34 +0000] [7359] [INFO] Worker exiting (pid: 7359)
+[2024-10-23 08:54:34 +0000] [7361] [INFO] Worker exiting (pid: 7361)
+[2024-10-23 08:54:34 +0000] [243] [INFO] Worker exiting (pid: 243)
+[2024-10-23 08:54:34 +0000] [244] [INFO] Worker exiting (pid: 244)
+[2024-10-23 08:54:35 +0000] [1] [INFO] Shutting down: Master
+[2024-10-23 12:51:13 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-23 12:51:13 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-23 12:51:13 +0000] [1] [INFO] Using worker: gthread
+[2024-10-23 12:51:13 +0000] [13] [INFO] Booting worker with pid: 13
+[2024-10-23 12:51:13 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-23 12:51:13 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-23 12:51:13 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-23 12:51:13 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-23 12:51:14 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-23 12:51:14 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-23 12:51:14 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-23 12:51:14 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-23 12:51:14 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-23 12:51:14 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-23 12:51:14 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-23 12:51:14 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-23 12:51:14 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-23 12:51:14 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-23 12:51:14 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-23 12:51:32 +0000] [1] [INFO] Handling signal: term
+[2024-10-23 12:51:33 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-23 12:51:33 +0000] [13] [INFO] Worker exiting (pid: 13)
+[2024-10-23 12:51:33 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-23 12:51:33 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-23 12:51:33 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-23 12:51:33 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-23 12:51:33 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-23 12:51:33 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-23 12:51:33 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-23 12:51:33 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-23 12:51:33 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-23 12:51:33 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-23 12:51:33 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-23 12:51:33 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-23 12:51:33 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-23 12:51:33 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-23 12:51:33 +0000] [1] [INFO] Shutting down: Master
+[2024-10-23 22:20:18 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-23 22:20:18 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-23 22:20:18 +0000] [1] [INFO] Using worker: gthread
+[2024-10-23 22:20:18 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-23 22:20:18 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-23 22:20:18 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-23 22:20:18 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-23 22:20:19 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-23 22:20:19 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-23 22:20:19 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-23 22:20:19 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-23 22:20:19 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-23 22:20:19 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-23 22:20:19 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-23 22:20:19 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-23 22:20:19 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-23 22:20:19 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-23 22:20:19 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-23 22:20:19 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-24 03:54:10 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-24 03:54:10 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-24 03:54:10 +0000] [1] [INFO] Using worker: gthread
+[2024-10-24 03:54:10 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-24 03:54:10 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-24 03:54:11 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-24 03:54:11 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-24 03:54:11 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-24 03:54:11 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-24 03:54:11 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-24 03:54:11 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-24 03:54:11 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-24 03:54:11 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-24 03:54:11 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-24 03:54:11 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-24 03:54:11 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-24 03:54:11 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-24 03:54:11 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-24 03:54:11 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-24 08:17:32 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-24 08:17:32 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-24 08:17:32 +0000] [1] [INFO] Using worker: gthread
+[2024-10-24 08:17:32 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-24 08:17:32 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-24 08:17:32 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-24 08:17:32 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-24 08:17:32 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-24 08:17:32 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-24 08:17:32 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-24 08:17:32 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-24 08:17:32 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-24 08:17:32 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-24 08:17:32 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-24 08:17:32 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-24 08:17:32 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-24 08:17:32 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-24 08:17:32 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-24 08:17:32 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-24 08:18:10 +0000] [1] [INFO] Handling signal: term
+[2024-10-24 08:18:10 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-24 08:18:10 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-24 08:18:10 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-24 08:18:10 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-24 08:18:10 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-24 08:18:11 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-24 08:18:11 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-24 08:18:11 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-24 08:18:11 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-24 08:18:11 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-24 08:18:11 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-24 08:18:11 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-24 08:18:11 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-24 08:18:11 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-24 08:18:11 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-24 08:18:11 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-24 08:18:11 +0000] [1] [INFO] Shutting down: Master
+[2024-10-24 13:50:15 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-24 13:50:15 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-24 13:50:15 +0000] [1] [INFO] Using worker: gthread
+[2024-10-24 13:50:15 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-24 13:50:15 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-24 13:50:15 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-24 13:50:15 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-24 13:50:15 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-24 13:50:15 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-24 13:50:15 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-24 13:50:15 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-24 13:50:15 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-24 13:50:15 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-24 13:50:15 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-24 13:50:16 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-24 13:50:16 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-24 13:50:16 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-24 13:50:16 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-24 13:50:16 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-25 00:12:14 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-25 00:12:14 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-25 00:12:14 +0000] [1] [INFO] Using worker: gthread
+[2024-10-25 00:12:14 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-25 00:12:14 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-25 00:12:14 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-25 00:12:14 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-25 00:12:14 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-25 00:12:14 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-25 00:12:14 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-25 00:12:14 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-25 00:12:14 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-25 00:12:14 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-25 00:12:14 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-25 00:12:14 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-25 00:12:14 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-25 00:12:14 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-25 00:12:15 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-25 00:12:15 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-25 00:12:51 +0000] [1] [INFO] Handling signal: term
+[2024-10-25 00:12:52 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-25 00:12:52 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-25 00:12:52 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-25 00:12:52 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-25 00:12:52 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-25 00:12:52 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-25 00:12:52 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-25 00:12:52 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-25 00:12:52 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-25 00:12:52 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-25 00:12:52 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-25 00:12:52 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-25 00:12:52 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-25 00:12:52 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-25 00:12:52 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-25 00:12:52 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-25 00:12:52 +0000] [1] [INFO] Shutting down: Master
+[2024-10-25 13:52:46 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-25 13:52:46 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-25 13:52:46 +0000] [1] [INFO] Using worker: gthread
+[2024-10-25 13:52:46 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-25 13:52:46 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-25 13:52:46 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-25 13:52:46 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-25 13:52:46 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-25 13:52:46 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-25 13:52:47 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-25 13:52:47 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-25 13:52:47 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-25 13:52:47 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-25 13:52:47 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-25 13:52:47 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-25 13:52:47 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-25 13:52:47 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-25 13:52:47 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-25 13:52:47 +0000] [30] [INFO] Booting worker with pid: 30
+[2024-10-25 13:53:37 +0000] [1] [INFO] Handling signal: term
+[2024-10-25 13:53:37 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-25 13:53:37 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-25 13:53:37 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-25 13:53:37 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-25 13:53:37 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-25 13:53:38 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-25 13:53:38 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-25 13:53:38 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-25 13:53:38 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-25 13:53:38 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-25 13:53:38 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-25 13:53:38 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-25 13:53:38 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-25 13:53:38 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-25 13:53:38 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-25 13:53:38 +0000] [30] [INFO] Worker exiting (pid: 30)
+[2024-10-25 13:53:38 +0000] [1] [INFO] Shutting down: Master
+[2024-10-25 14:14:35 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-25 14:14:35 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-25 14:14:35 +0000] [1] [INFO] Using worker: gthread
+[2024-10-25 14:14:35 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-25 14:14:35 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-25 14:14:35 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-25 14:14:35 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-25 14:14:35 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-25 14:14:35 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-25 14:14:35 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-25 14:14:35 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-25 14:14:35 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-25 14:14:35 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-25 14:14:35 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-25 14:14:35 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-25 14:14:35 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-25 14:14:35 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-25 14:14:36 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-25 14:14:36 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:14)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:15)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:16)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:17)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:18)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:19)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:20)
+[2024-10-25 18:16:09 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-25 18:16:09 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-25 18:16:09 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-25 18:16:09 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-25 18:16:09 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:21)
+[2024-10-25 18:16:09 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:22)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:23)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:24)
+[2024-10-25 18:16:09 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:25)
+[2024-10-25 18:16:09 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:26)
+[2024-10-25 18:16:09 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-25 18:16:09 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-25 18:16:09 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-25 18:16:09 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-25 18:16:09 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-25 18:16:09 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:15) exited with code 1
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:15) exited with code 1.
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:22) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 18:16:09 +0000] [6086] [INFO] Booting worker with pid: 6086
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:16) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:21) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 18:16:09 +0000] [1] [ERROR] Worker (pid:24) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 18:16:09 +0000] [6087] [INFO] Booting worker with pid: 6087
+[2024-10-25 18:16:09 +0000] [6088] [INFO] Booting worker with pid: 6088
+[2024-10-25 18:16:09 +0000] [6089] [INFO] Booting worker with pid: 6089
+[2024-10-25 18:16:09 +0000] [6090] [INFO] Booting worker with pid: 6090
+[2024-10-25 18:16:09 +0000] [6091] [INFO] Booting worker with pid: 6091
+[2024-10-25 18:16:09 +0000] [6092] [INFO] Booting worker with pid: 6092
+[2024-10-25 18:16:09 +0000] [6093] [INFO] Booting worker with pid: 6093
+[2024-10-25 18:16:09 +0000] [6094] [INFO] Booting worker with pid: 6094
+[2024-10-25 18:16:09 +0000] [6095] [INFO] Booting worker with pid: 6095
+[2024-10-25 18:16:09 +0000] [6096] [INFO] Booting worker with pid: 6096
+[2024-10-25 18:16:09 +0000] [6097] [INFO] Booting worker with pid: 6097
+[2024-10-25 18:16:09 +0000] [6098] [INFO] Booting worker with pid: 6098
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:29)
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6086)
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6087)
+[2024-10-25 19:01:02 +0000] [6086] [INFO] Worker exiting (pid: 6086)
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6088)
+[2024-10-25 19:01:02 +0000] [6087] [INFO] Worker exiting (pid: 6087)
+[2024-10-25 19:01:02 +0000] [6088] [INFO] Worker exiting (pid: 6088)
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6089)
+[2024-10-25 19:01:02 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6098)
+[2024-10-25 19:01:02 +0000] [6089] [INFO] Worker exiting (pid: 6089)
+[2024-10-25 19:01:02 +0000] [6098] [INFO] Worker exiting (pid: 6098)
+[2024-10-25 19:01:02 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-25 19:01:02 +0000] [1] [ERROR] Worker (pid:6089) exited with code 1
+[2024-10-25 19:01:02 +0000] [1] [ERROR] Worker (pid:6089) exited with code 1.
+[2024-10-25 19:01:02 +0000] [1] [ERROR] Worker (pid:29) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 19:01:02 +0000] [6105] [INFO] Booting worker with pid: 6105
+[2024-10-25 19:01:02 +0000] [6106] [INFO] Booting worker with pid: 6106
+[2024-10-25 19:01:02 +0000] [6107] [INFO] Booting worker with pid: 6107
+[2024-10-25 19:01:02 +0000] [6108] [INFO] Booting worker with pid: 6108
+[2024-10-25 19:01:02 +0000] [6109] [INFO] Booting worker with pid: 6109
+[2024-10-25 19:01:02 +0000] [6110] [INFO] Booting worker with pid: 6110
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:27)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6090)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6091)
+[2024-10-25 22:00:28 +0000] [6090] [INFO] Worker exiting (pid: 6090)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6092)
+[2024-10-25 22:00:28 +0000] [6091] [INFO] Worker exiting (pid: 6091)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6093)
+[2024-10-25 22:00:28 +0000] [6092] [INFO] Worker exiting (pid: 6092)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6095)
+[2024-10-25 22:00:28 +0000] [6093] [INFO] Worker exiting (pid: 6093)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6096)
+[2024-10-25 22:00:28 +0000] [6095] [INFO] Worker exiting (pid: 6095)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6109)
+[2024-10-25 22:00:28 +0000] [6096] [INFO] Worker exiting (pid: 6096)
+[2024-10-25 22:00:28 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6110)
+[2024-10-25 22:00:28 +0000] [6109] [INFO] Worker exiting (pid: 6109)
+[2024-10-25 22:00:28 +0000] [6110] [INFO] Worker exiting (pid: 6110)
+[2024-10-25 22:00:28 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-25 22:00:28 +0000] [1] [ERROR] Worker (pid:6090) exited with code 1
+[2024-10-25 22:00:28 +0000] [1] [ERROR] Worker (pid:6090) exited with code 1.
+[2024-10-25 22:00:28 +0000] [1] [ERROR] Worker (pid:27) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 22:00:28 +0000] [18094] [INFO] Booting worker with pid: 18094
+[2024-10-25 22:00:28 +0000] [18095] [INFO] Booting worker with pid: 18095
+[2024-10-25 22:00:28 +0000] [18096] [INFO] Booting worker with pid: 18096
+[2024-10-25 22:00:28 +0000] [18097] [INFO] Booting worker with pid: 18097
+[2024-10-25 22:00:28 +0000] [18098] [INFO] Booting worker with pid: 18098
+[2024-10-25 22:00:28 +0000] [18099] [INFO] Booting worker with pid: 18099
+[2024-10-25 22:00:28 +0000] [18100] [INFO] Booting worker with pid: 18100
+[2024-10-25 22:00:28 +0000] [18101] [INFO] Booting worker with pid: 18101
+[2024-10-25 22:00:28 +0000] [18102] [INFO] Booting worker with pid: 18102
+[2024-10-25 22:59:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6105)
+[2024-10-25 22:59:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6106)
+[2024-10-25 22:59:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6107)
+[2024-10-25 22:59:08 +0000] [6105] [INFO] Worker exiting (pid: 6105)
+[2024-10-25 22:59:08 +0000] [6106] [INFO] Worker exiting (pid: 6106)
+[2024-10-25 22:59:08 +0000] [1] [CRITICAL] WORKER TIMEOUT (pid:6108)
+[2024-10-25 22:59:08 +0000] [6107] [INFO] Worker exiting (pid: 6107)
+[2024-10-25 22:59:08 +0000] [6108] [INFO] Worker exiting (pid: 6108)
+[2024-10-25 22:59:08 +0000] [1] [ERROR] Worker (pid:6107) exited with code 1
+[2024-10-25 22:59:08 +0000] [1] [ERROR] Worker (pid:6107) exited with code 1.
+[2024-10-25 22:59:08 +0000] [1] [ERROR] Worker (pid:6105) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 22:59:08 +0000] [18115] [INFO] Booting worker with pid: 18115
+[2024-10-25 22:59:08 +0000] [1] [ERROR] Worker (pid:6106) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 22:59:08 +0000] [1] [ERROR] Worker (pid:6108) was sent SIGKILL! Perhaps out of memory?
+[2024-10-25 22:59:08 +0000] [18116] [INFO] Booting worker with pid: 18116
+[2024-10-25 22:59:08 +0000] [18117] [INFO] Booting worker with pid: 18117
+[2024-10-25 22:59:08 +0000] [18118] [INFO] Booting worker with pid: 18118
+[2024-10-26 09:59:49 +0000] [1] [INFO] Handling signal: term
+[2024-10-26 09:59:49 +0000] [18097] [INFO] Worker exiting (pid: 18097)
+[2024-10-26 09:59:49 +0000] [18098] [INFO] Worker exiting (pid: 18098)
+[2024-10-26 09:59:49 +0000] [6094] [INFO] Worker exiting (pid: 6094)
+[2024-10-26 09:59:49 +0000] [6097] [INFO] Worker exiting (pid: 6097)
+[2024-10-26 09:59:49 +0000] [18100] [INFO] Worker exiting (pid: 18100)
+[2024-10-26 09:59:49 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-26 09:59:49 +0000] [18099] [INFO] Worker exiting (pid: 18099)
+[2024-10-26 09:59:49 +0000] [18102] [INFO] Worker exiting (pid: 18102)
+[2024-10-26 09:59:49 +0000] [18101] [INFO] Worker exiting (pid: 18101)
+[2024-10-26 09:59:50 +0000] [18116] [INFO] Worker exiting (pid: 18116)
+[2024-10-26 09:59:50 +0000] [18115] [INFO] Worker exiting (pid: 18115)
+[2024-10-26 09:59:50 +0000] [18118] [INFO] Worker exiting (pid: 18118)
+[2024-10-26 09:59:50 +0000] [18094] [INFO] Worker exiting (pid: 18094)
+[2024-10-26 09:59:50 +0000] [18117] [INFO] Worker exiting (pid: 18117)
+[2024-10-26 09:59:50 +0000] [18095] [INFO] Worker exiting (pid: 18095)
+[2024-10-26 09:59:50 +0000] [18096] [INFO] Worker exiting (pid: 18096)
+[2024-10-26 09:59:50 +0000] [1] [INFO] Shutting down: Master
+[2024-10-26 23:26:53 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-26 23:26:53 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-26 23:26:53 +0000] [1] [INFO] Using worker: gthread
+[2024-10-26 23:26:53 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-26 23:26:53 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-26 23:26:53 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-26 23:26:53 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-26 23:26:53 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-26 23:26:53 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-26 23:26:53 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-26 23:26:53 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-26 23:26:53 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-26 23:26:53 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-26 23:26:53 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-26 23:26:53 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-26 23:26:54 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-26 23:26:54 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-26 23:26:54 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-26 23:26:54 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-26 23:27:10 +0000] [1] [INFO] Handling signal: term
+[2024-10-26 23:27:10 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-26 23:27:10 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-26 23:27:10 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-26 23:27:10 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-26 23:27:10 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-26 23:27:10 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-26 23:27:10 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-26 23:27:10 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-26 23:27:10 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-26 23:27:11 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-26 23:27:11 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-26 23:27:11 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-26 23:27:11 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-26 23:27:11 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-26 23:27:11 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-26 23:27:11 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-26 23:27:11 +0000] [1] [INFO] Shutting down: Master
+[2024-10-28 23:35:45 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-28 23:35:45 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-28 23:35:45 +0000] [1] [INFO] Using worker: gthread
+[2024-10-28 23:35:45 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-28 23:35:45 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-28 23:35:45 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-28 23:35:45 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-28 23:35:45 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-28 23:35:45 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-28 23:35:45 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-28 23:35:45 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-28 23:35:45 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-28 23:35:45 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-28 23:35:45 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-28 23:35:45 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-28 23:35:45 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-28 23:35:45 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-28 23:35:45 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-28 23:35:45 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-28 23:36:47 +0000] [1] [INFO] Handling signal: term
+[2024-10-28 23:36:47 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-28 23:36:47 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-28 23:36:47 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-28 23:36:47 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-28 23:36:47 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-28 23:36:47 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-28 23:36:47 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-28 23:36:47 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-28 23:36:47 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-28 23:36:48 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-28 23:36:48 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-28 23:36:48 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-28 23:36:48 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-28 23:36:48 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-28 23:36:48 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-28 23:36:48 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-28 23:36:48 +0000] [1] [INFO] Shutting down: Master
+[2024-10-29 22:02:23 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-29 22:02:23 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-29 22:02:23 +0000] [1] [INFO] Using worker: gthread
+[2024-10-29 22:02:23 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-29 22:02:24 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-29 22:02:24 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-29 22:02:24 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-29 22:02:24 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-29 22:02:24 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-29 22:02:24 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-29 22:02:24 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-29 22:02:24 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-29 22:02:24 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-29 22:02:24 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-29 22:02:24 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-29 22:02:24 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-29 22:02:24 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-29 22:02:24 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-29 22:02:24 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-29 22:02:36 +0000] [1] [INFO] Handling signal: term
+[2024-10-29 22:02:36 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-29 22:02:36 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-29 22:02:36 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-29 22:02:36 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-29 22:02:36 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-29 22:02:36 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-29 22:02:36 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-29 22:02:36 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-29 22:02:36 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-29 22:02:36 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-29 22:02:36 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-29 22:02:36 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-29 22:02:36 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-29 22:02:37 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-29 22:02:37 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-29 22:02:37 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-29 22:02:37 +0000] [1] [INFO] Shutting down: Master
+[2024-10-30 12:17:38 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-30 12:17:38 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-30 12:17:38 +0000] [1] [INFO] Using worker: gthread
+[2024-10-30 12:17:38 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-30 12:17:38 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-30 12:17:38 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-30 12:17:38 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-30 12:17:38 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-30 12:17:38 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-30 12:17:38 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-30 12:17:38 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-30 12:17:38 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-30 12:17:38 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-30 12:17:38 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-30 12:17:38 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-30 12:17:38 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-30 12:17:38 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-30 12:17:39 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-30 12:17:39 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-30 12:18:08 +0000] [1] [INFO] Handling signal: term
+[2024-10-30 12:18:09 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-30 12:18:09 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-30 12:18:09 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-30 12:18:09 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-30 12:18:09 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-30 12:18:09 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-30 12:18:09 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-30 12:18:09 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-30 12:18:09 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-30 12:18:09 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-30 12:18:09 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-30 12:18:09 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-30 12:18:09 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-30 12:18:09 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-30 12:18:09 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-30 12:18:09 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-30 12:18:09 +0000] [1] [INFO] Shutting down: Master
+[2024-10-31 23:10:34 +0000] [1] [INFO] Starting gunicorn 21.2.0
+[2024-10-31 23:10:34 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
+[2024-10-31 23:10:34 +0000] [1] [INFO] Using worker: gthread
+[2024-10-31 23:10:34 +0000] [14] [INFO] Booting worker with pid: 14
+[2024-10-31 23:10:34 +0000] [15] [INFO] Booting worker with pid: 15
+[2024-10-31 23:10:34 +0000] [16] [INFO] Booting worker with pid: 16
+[2024-10-31 23:10:34 +0000] [17] [INFO] Booting worker with pid: 17
+[2024-10-31 23:10:34 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-10-31 23:10:34 +0000] [19] [INFO] Booting worker with pid: 19
+[2024-10-31 23:10:34 +0000] [20] [INFO] Booting worker with pid: 20
+[2024-10-31 23:10:34 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-10-31 23:10:35 +0000] [22] [INFO] Booting worker with pid: 22
+[2024-10-31 23:10:35 +0000] [23] [INFO] Booting worker with pid: 23
+[2024-10-31 23:10:35 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-10-31 23:10:35 +0000] [25] [INFO] Booting worker with pid: 25
+[2024-10-31 23:10:35 +0000] [26] [INFO] Booting worker with pid: 26
+[2024-10-31 23:10:35 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-10-31 23:10:35 +0000] [28] [INFO] Booting worker with pid: 28
+[2024-10-31 23:10:35 +0000] [29] [INFO] Booting worker with pid: 29
+[2024-10-31 23:10:58 +0000] [1] [INFO] Handling signal: term
+[2024-10-31 23:10:58 +0000] [17] [INFO] Worker exiting (pid: 17)
+[2024-10-31 23:10:58 +0000] [25] [INFO] Worker exiting (pid: 25)
+[2024-10-31 23:10:58 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-10-31 23:10:58 +0000] [26] [INFO] Worker exiting (pid: 26)
+[2024-10-31 23:10:58 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-10-31 23:10:59 +0000] [29] [INFO] Worker exiting (pid: 29)
+[2024-10-31 23:10:59 +0000] [19] [INFO] Worker exiting (pid: 19)
+[2024-10-31 23:10:59 +0000] [28] [INFO] Worker exiting (pid: 28)
+[2024-10-31 23:10:59 +0000] [20] [INFO] Worker exiting (pid: 20)
+[2024-10-31 23:10:59 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-10-31 23:10:59 +0000] [22] [INFO] Worker exiting (pid: 22)
+[2024-10-31 23:10:59 +0000] [23] [INFO] Worker exiting (pid: 23)
+[2024-10-31 23:10:59 +0000] [14] [INFO] Worker exiting (pid: 14)
+[2024-10-31 23:10:59 +0000] [15] [INFO] Worker exiting (pid: 15)
+[2024-10-31 23:10:59 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-10-31 23:10:59 +0000] [16] [INFO] Worker exiting (pid: 16)
+[2024-10-31 23:11:00 +0000] [1] [INFO] Shutting down: Master

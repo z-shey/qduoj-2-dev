@@ -12,6 +12,7 @@
             <span>{{$t('m.Memory')}}: {{submission.statistic_info.memory_cost | submissionMemory}}</span>
             <span>{{$t('m.Lang')}}: {{submission.language}}</span>
             <span>{{$t('m.Author')}}: {{submission.username}}</span>
+            <span>查重率: {{submission.similarity.result}}</span>
           </template>
         </div>
       </Alert>

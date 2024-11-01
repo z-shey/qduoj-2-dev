@@ -1,0 +1,1 @@
+void readFileAndProcess(const char *filename);void processLine(const char *line);void printWelcomeMessage();void printGoodbyeMessage(); readFileAndProcess(filename);printGoodbyeMessage(); int for(true) {}

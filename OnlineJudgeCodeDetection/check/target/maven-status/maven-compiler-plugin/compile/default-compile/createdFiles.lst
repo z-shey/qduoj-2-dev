@@ -1,0 +1,6 @@
+cn\zshey\check\CheckApplication.class
+cn\zshey\check\service\impl\CheckServiceImpl.class
+cn\zshey\check\model\dto\CheckDTO.class
+cn\zshey\check\service\CheckService.class
+cn\zshey\check\model\dto\SimilarityResult.class
+cn\zshey\check\controller\CheckController.class
