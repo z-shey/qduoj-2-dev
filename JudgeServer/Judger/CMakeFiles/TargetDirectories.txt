@@ -1,0 +1,7 @@
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/libjudger.so.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/edit_cache.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/rebuild_cache.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/list_install_components.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/install.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/install/local.dir
+D:/WorkSpace/Project/MyProject/qduoj-2-dev/JudgeServer/Judger/CMakeFiles/install/strip.dir

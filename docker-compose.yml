@@ -62,8 +62,8 @@ services:
       - oj-judge
     volumes:
       - ./data/backend:/data
-      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeFE\dist:/app/dist
-      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudge:/app
+      - D:\WorkSpace\Project\MyProject\qduoj-2-dev\OnlineJudgeFE\dist:/app/dist
+      - D:\WorkSpace\Project\MyProject\qduoj-2-dev\OnlineJudge:/app
     environment:
       - POSTGRES_DB=onlinejudge
       - POSTGRES_USER=onlinejudge
@@ -86,7 +86,7 @@ services:
       - oj-judge
     volumes:
       - ./data/backend:/data
-      - D:\WorkSpace\Project\OpenProject\qduoj-2-dev\OnlineJudgeFE:/app/frontend
+      - D:\WorkSpace\Project\MyProject\qduoj-2-dev\OnlineJudgeFE:/app/frontend
     environment:
       - POSTGRES_DB=onlinejudge
       - POSTGRES_USER=onlinejudge
